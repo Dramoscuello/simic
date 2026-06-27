@@ -1,0 +1,74 @@
+name: Backend Tests
+
+on:
+  pull_request:
+    paths:
+      - "backend/**"
+      - ".github/workflows/backend-tests.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "backend/**"
+      - ".github/workflows/backend-tests.yml"
+
+jobs:
+  backend-tests:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: icfes_test
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U postgres -d icfes_test"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 12
+      redis:
+        image: redis:7
+        ports:
+          - 6379:6379
+        options: >-
+          --health-cmd "redis-cli ping"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 12
+
+    env:
+      DATABASE_URL: postgresql://postgres:postgres@localhost:5432/icfes_test
+      REDIS_URL: redis://localhost:6379/0
+      APP_BOOTSTRAP_ON_STARTUP: "false"
+      SECRET_KEY: github_actions_test_secret
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r backend/requirements.txt
+
+      - name: Run migrations
+        working-directory: backend
+        run: alembic upgrade head
+
+      - name: Run critical backend tests
+        working-directory: backend
+        run: >
+          pytest -m "critical or integration"
+          --cov=app.api.auth
+          --cov=app.api.mensajeria
+          --cov=app.api.simulacros_attempts
+          --cov=app.api.simulacros_omr
+          --cov=app.api.simulacros_generation
+          --cov-fail-under=65

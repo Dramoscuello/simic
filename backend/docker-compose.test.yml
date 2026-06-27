@@ -1,0 +1,31 @@
+services:
+  postgres_test:
+    image: postgres:16
+    container_name: icfes_postgres_test
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: icfes_test
+    ports:
+      - "54329:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d icfes_test"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    volumes:
+      - pg_test_data:/var/lib/postgresql/data
+
+  redis_test:
+    image: redis:7
+    container_name: icfes_redis_test
+    ports:
+      - "6389:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+volumes:
+  pg_test_data:
