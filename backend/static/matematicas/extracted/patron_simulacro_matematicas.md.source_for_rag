@@ -1,0 +1,3103 @@
+# Análisis de Patrones - Simulacro Matemáticas 11° (2022)
+
+---
+
+## P1. Integración de datos de múltiples fuentes (tabla + gráfico de barras)
+- **Estímulo:** Resultados de votación presentados en tabla (curso 901) y gráfico de barras (curso 902)
+- **Qué evalúa:** Capacidad de sumar datos de diferentes representaciones y elegir la representación correcta del total
+- **Plantilla:** Dados resultados en {formato1} y {formato2}, ¿cuál representación muestra correctamente {el total/la suma}?
+- **Distractores típicos:** Gráficos que muestran solo un curso; porcentajes incorrectos; confundir frecuencia absoluta con relativa
+
+---…
+
+## P2. Interpretación de función cuadrática (parábola)
+- **Estímulo:** Función P = -d² + 10d - 15 (parábola con coeficiente negativo)
+- **Qué evalúa:** Identificación de la gráfica correcta de una función cuadrática con concavidad hacia abajo
+- **Plantilla:** Dada la función {expresión cuadrática}, ¿cuál gráfica representa correctamente la relación?
+- **Distractores típicos:** Parábola con concavidad incorrecta; valores de intersección erróneos; escala inadecuada; funciones lineales o exponenciales
+
+---
+
+## P3. Identificación de gráfica de función cuadrática básica
+- **Estímulo:** Función y = x² + 5 (parábola con desplazamiento vertical)
+- **Qué evalúa:** Reconocimiento de parábola con vértice desplazado
+- **Plantilla:** La función y = {expresión cuadrática} corresponde a ¿cuál gráfica?
+- **Distractores típicos:** Gráficas con vértice en origen; funciones lineales; escalas incorrectas; dominio restringido incorrectamente
+
+---
+
+## P4. Detección de inconsistencias en tablas de datos
+- **Estímulo:** Proceso de admisión con dos pruebas, tabla con puntajes promedio y número de aprobados por grupo
+- **Qué evalúa:** Análisis crítico de datos, verificación de coherencia entre restricciones y resultados
+- **Plantilla:** En la tabla que muestra {proceso/datos}, ¿dónde hay una inconsistencia?
+- **Distractores típicos:** Señalar datos correctos como erróneos; confundir promedios con totales; no considerar restricciones del problema
+
+---
+
+## P5. Cálculo de áreas compuestas (Pitágoras implícito)
+- **Estímulo:** Figura con dos cuadrados y un triángulo rectángulo; áreas de cuadrados dadas
+- **Qué evalúa:** Teorema de Pitágoras, cálculo de áreas, composición de figuras
+- **Plantilla:** Si el área del cuadrado A es {valor1} y del cuadrado B es {valor2}, ¿cuál es el área total de la figura?
+- **Distractores típicos:** Sumar solo las áreas dadas; no calcular el área del triángulo; aplicar mal Pitágoras; errores en fórmulas de área
+
+---
+
+## P6. Evaluación de función lineal en tabla
+- **Estímulo:** Función T = 3(x + 1) + 10 y cuatro tablas con valores diferentes
+- **Qué evalúa:** Sustitución en expresiones algebraicas, función afín
+- **Plantilla:** La expresión {función} muestra ¿cuál tabla de valores?
+- **Distractores típicos:** Errores de orden de operaciones; confundir multiplicación con potenciación; no aplicar distribución correctamente
+
+---
+
+## P7. Dominio de función con raíz cuadrada
+- **Estímulo:** Función f(x) = √(x² - x) con restricción de raíz cuadrada
+- **Qué evalúa:** Determinación del dominio (valores donde la expresión está definida)
+- **Plantilla:** Para la función {expresión con restricción}, ¿cuál es el conjunto de valores de x donde está definida?
+- **Distractores típicos:** Ignorar restricción de no negatividad; intervalos incorrectos; confundir dominio con rango
+
+---
+
+## P8. Probabilidad en experimento compuesto
+- **Estímulo:** Lanzar dado dos veces, ganar si segundo resultado es doble del primero
+- **Qué evalúa:** Conteo de casos favorables y totales, probabilidad clásica
+- **Plantilla:** En un experimento donde {condiciones}, ¿cuál es la probabilidad de {evento}?
+- **Distractores típicos:** Contar mal casos favorables; usar denominador incorrecto; no considerar todos los casos; simplificar mal fracciones
+
+---
+
+## P9. Determinación de parábola con dos puntos
+- **Estímulo:** Trayectoria parabólica de proyectil, solo se conocen dos puntos
+- **Qué evalúa:** Razonamiento sobre unicidad de funciones cuadráticas
+- **Plantilla:** Con {cantidad de datos}, ¿es suficiente información para determinar {curva/función}?
+- **Distractores típicos:** Creer que dos puntos determinan cualquier curva; no distinguir entre grados de funciones; confundir con recta
+
+---
+
+## P10. Análisis de error en simplificación algebraica
+- **Estímulo:** Proceso de simplificación de √((x-1)² + 2x - 1) con error
+- **Qué evalúa:** Identificación de errores en manipulación algebraica, propiedades de radicales
+- **Plantilla:** El proceso {operaciones} es incorrecto porque {razón}
+- **Distractores típicos:** Señalar pasos correctos como erróneos; no identificar el error conceptual específico; confundir propiedades
+
+---
+
+## P11. Ordenamiento de números decimales
+- **Estímulo:** Cuatro distancias con decimales: 5,42 km, 5,407 km, 4,91 km, 4,86 km
+- **Qué evalúa:** Comparación y orden de números decimales
+- **Plantilla:** Ordene de menor a mayor: {conjunto de decimales}
+- **Distractores típicos:** Comparar solo parte entera; comparar lexicográficamente; no alinear puntos decimales
+
+---
+
+## P12. Tipo de relación entre variables
+- **Estímulo:** Gráfica de altura vs distancia recorrida por un ave
+- **Qué evalúa:** Identificación del tipo de función (lineal, cuadrática, exponencial, constante)
+- **Plantilla:** Según la gráfica, ¿qué tipo de relación existe entre {variable1} y {variable2}?
+- **Distractores típicos:** Confundir crecimiento con tipo de función; identificar mal la pendiente constante; usar razones incorrectas
+
+---
+
+## P13. Proporcionalidad directa e inversa
+- **Estímulo:** Gráfica de ventas mensuales de dos productos durante 6 meses
+- **Qué evalúa:** Reconocimiento de relaciones de proporcionalidad en gráficos
+- **Plantilla:** Según la información, ¿cuál afirmación sobre proporcionalidad es verdadera?
+- **Distractores típicos:** Confundir directa con inversa; ver proporcionalidad donde hay función constante o no lineal; no verificar cociente constante
+
+---
+
+## P14. Determinación de expresión algebraica desde tabla
+- **Estímulo:** Tabla de crecimiento mensual de árboles (patrón aritmético)
+- **Qué evalúa:** Identificación de función lineal a partir de datos tabulados
+- **Plantilla:** Si x representa {variable}, ¿cuál expresión representa {cantidad} en función de x?
+- **Distractores típicos:** No identificar pendiente correcta; confundir intercepto; usar fórmula de término general incorrecta
+
+---
+
+## P15. Conteo - permutaciones/combinaciones
+- **Estímulo:** Citar 2 candidatos de 5 aspirantes (uno mañana, otro tarde)
+- **Qué evalúa:** Principio de multiplicación, permutaciones sin repetición
+- **Plantilla:** De {n} elementos, ¿de cuántas formas se pueden seleccionar {k} en orden?
+- **Distractores típicos:** Usar combinaciones en vez de permutaciones; no considerar el orden; sumar en vez de multiplicar
+
+---
+
+## P16. Punto de equilibrio (igualdad de funciones)
+- **Estímulo:** Función de costos C(x) = 300x + 12000 e ingresos I(x) = 900x
+- **Qué evalúa:** Resolución de ecuaciones lineales, interpretación de punto de equilibrio
+- **Plantilla:** ¿Para qué valor de x se cumple que {función1} = {función2}?
+- **Distractores típicos:** Errores de despeje; no igualar correctamente; operaciones inversas incorrectas
+
+---
+
+## P17. Modelación con operaciones en la recta numérica
+- **Estímulo:** Pingüino en posición inicial -5, movimientos: 6m oriente, 2m occidente, 3m oriente
+- **Qué evalúa:** Representación de movimientos con suma/resta, números enteros
+- **Plantilla:** Para encontrar la posición final tras {movimientos}, ¿cuál procedimiento es correcto?
+- **Distractores típicos:** Confundir dirección de operaciones; no considerar posición inicial; errores de signo
+
+---
+
+## P18. Paralelismo en geometría
+- **Estímulo:** Cuadrilátero con lados etiquetados, dos perpendiculares a un mismo lado
+- **Qué evalúa:** Criterios de paralelismo (perpendicularidad a una misma recta)
+- **Plantilla:** ¿Por qué los lados {A} y {B} son paralelos?
+- **Distractores típicos:** Creer que igualdad de medidas implica paralelismo; generalizar propiedades sin justificación; confundir condiciones
+
+---
+
+## P19. Razonamiento sobre definiciones geométricas (elipse-circunferencia)
+- **Estímulo:** Definición de semiejes de elipse; afirmación sobre igualdad de semiejes
+- **Qué evalúa:** Razonamiento lógico sobre definiciones, caso particular de elipse como circunferencia
+- **Plantilla:** La afirmación "{enunciado geométrico}" es verdadera/falsa porque...
+- **Distractores típicos:** Negar equivalencias verdaderas; no usar definición correctamente; argumentos circulares
+
+---
+
+## P20. Transformaciones geométricas y orientación
+- **Estímulo:** Triángulo con recorrido específico; transformaciones: reflexión, traslación, rotación
+- **Qué evalúa:** Efecto de transformaciones geométricas en orientación y posición relativa
+- **Plantilla:** Tras aplicar {transformación}, ¿en qué casos se preserva {propiedad de orientación}?
+- **Distractores típicos:** Creer que todas las transformaciones preservan orientación; confundir reflexión con rotación; no analizar caso por caso
+
+---
+# Patrones de preguntas por secciones – Cuadernillo ICFES (2020)
+
+**P01. Interpretación de gráfico circular/porcentajes (encuesta)**  
+- **Estímulo:** Gráfico circular o distribución porcentual  
+- **Qué evalúa:** Lectura de proporciones y comparación de categorías  
+- **Plantilla:** Con base en el gráfico, ¿cuál afirmación es correcta sobre {categoria}? / ¿qué categoría representa mayor/menor proporción?  
+- **Distractores típicos:** Confundir porcentaje con cantidad absoluta; elegir categoría visualmente grande pero no mayor; sumar porcentajes mal
+
+**P02. Comparación de récords/decimales y orden**  
+- **Estímulo:** Dos o más registros numéricos con decimales  
+- **Qué evalúa:** Orden y comparación de números decimales; intervalos  
+- **Plantilla:** ¿Es posible un valor que cumpla {condicion1} pero no {condicion2}?  
+- **Distractores típicos:** Ignorar precisión; no entender 'romper' como '<'; elegir un valor fuera del intervalo
+
+**P03. Lectura de tabla de frecuencias**  
+- **Estímulo:** Tabla con conteos o frecuencias por grupo  
+- **Qué evalúa:** Interpretación de frecuencias, totales, porcentajes y comparación  
+- **Plantilla:** De la tabla, ¿cuál es el total/porcentaje de {grupo}? / ¿qué conclusión se infiere?  
+- **Distractores típicos:** Sumar filas/columnas equivocadas; usar denominador incorrecto
+
+**P04. Geometría aplicada (escalera contra muro)**  
+- **Estímulo:** Figura con triángulo rectángulo y medidas  
+- **Qué evalúa:** Pitágoras, razones trigonométricas básicas, semejanza  
+- **Plantilla:** En la figura, si {lado1}={v1} y {lado2}={v2}, ¿cuánto mide {lado3}?  
+- **Distractores típicos:** Usar suma en vez de Pitágoras; confundir catetos/hipotenusa; redondeo indebido
+
+**P05. Área/perímetro en figuras compuestas**  
+- **Estímulo:** Plano/figura compuesta con medidas  
+- **Qué evalúa:** Descomposición y cálculo de área/perímetro  
+- **Plantilla:** Halle el área/perímetro total de la figura formada por {figuras_base}.  
+- **Distractores típicos:** Contar dos veces zonas comunes; omitir una parte; confundir unidades
+
+**P06. Razones y proporcionalidad en contextos**  
+- **Estímulo:** Situación verbal con 'por cada', 'aumenta', 'disminuye'  
+- **Qué evalúa:** Proporciones, regla de tres, escalas  
+- **Plantilla:** Si {magnitudA} cambia de {a1} a {a2}, ¿cuál será {magnitudB}?  
+- **Distractores típicos:** Proporción inversa vs directa; multiplicar/dividir al revés
+
+**P07. Probabilidad con baraja/dados (espacio muestral)**  
+- **Estímulo:** Descripción de baraja (póquer) u objeto aleatorio  
+- **Qué evalúa:** Cálculo de probabilidad simple/compuesta  
+- **Plantilla:** ¿Cuál es la probabilidad de obtener {evento} al extraer {n} carta(s) sin reemplazo?  
+- **Distractores típicos:** Contar casos favorables mal; asumir reemplazo; confundir eventos independientes
+
+**P08. Conteo combinatorio básico**  
+- **Estímulo:** Listado de opciones, rutas, combinaciones  
+- **Qué evalúa:** Principio multiplicativo y conteo  
+- **Plantilla:** ¿Cuántas maneras hay de {armar/escoger} si hay {m} opciones de {A} y {n} de {B}?  
+- **Distractores típicos:** Sumar en vez de multiplicar; permitir repetición cuando no aplica
+
+**P09. Interpretación de gráficos (barras/líneas)**  
+- **Estímulo:** Gráfico de barras o de líneas  
+- **Qué evalúa:** Tendencias, máximos, mínimos, cambios  
+- **Plantilla:** Según el gráfico, ¿en qué intervalo {sube/baja} más? / ¿cuál es el valor en {x}?  
+- **Distractores típicos:** Leer eje equivocado; confundir escala
+
+**P10. Medidas de tendencia central**  
+- **Estímulo:** Lista de datos o tabla  
+- **Qué evalúa:** Media, mediana, moda  
+- **Plantilla:** Con los datos, ¿cuál es la {media/mediana/moda}?  
+- **Distractores típicos:** Calcular media sin dividir; ordenar mal para mediana; confundir moda
+
+**P11. Rango y variación**  
+- **Estímulo:** Datos numéricos o distribución  
+- **Qué evalúa:** Rango, diferencia, variación porcentual  
+- **Plantilla:** ¿Cuál es el rango/variación entre {min} y {max}? / ¿cuánto cambia de {t1} a {t2}?  
+- **Distractores típicos:** Restar al revés; usar porcentajes incorrectos
+
+**P12. Ecuaciones lineales en contexto**  
+- **Estímulo:** Problema verbal con relación lineal  
+- **Qué evalúa:** Planteamiento y solución de ecuaciones  
+- **Plantilla:** Si {expresion} representa {situacion}, ¿cuál es {valor}?  
+- **Distractores típicos:** Plantear ecuación con signos incorrectos; confundir variable
+
+**P13. Sistemas de ecuaciones (dos incógnitas)**  
+- **Estímulo:** Dos condiciones sobre cantidades  
+- **Qué evalúa:** Modelación y solución de sistemas  
+- **Plantilla:** De {condicion1} y {condicion2}, halle {x} y {y}.  
+- **Distractores típicos:** Sustitución incorrecta; elegir par que satisface solo una ecuación
+
+**P14. Funciones: evaluar, interpretar y comparar**  
+- **Estímulo:** Expresión f(x) o tabla de valores  
+- **Qué evalúa:** Evaluación de funciones y significado  
+- **Plantilla:** Dada f(x)={...}, ¿cuál es f({a})? / ¿qué representa el coeficiente {k}?  
+- **Distractores típicos:** Sustituir mal; errores de signos
+
+**P15. Geometría del círculo (radio/diámetro/cuerda)**  
+- **Estímulo:** Figura de circunferencia  
+- **Qué evalúa:** Propiedades básicas del círculo  
+- **Plantilla:** En la circunferencia, el segmento {AB} corresponde a ¿{radio/diámetro/cuerda}?  
+- **Distractores típicos:** Confundir radio y diámetro; asumir que pasa por el centro sin evidencia
+
+**P16. Semejanza de triángulos**  
+- **Estímulo:** Dos triángulos con ángulos/lados proporcionales  
+- **Qué evalúa:** Proporción entre lados y escalas  
+- **Plantilla:** Si Δ1 ~ Δ2 y {lado} corresponde a {lado}, halle {lado_faltante}.  
+- **Distractores típicos:** Emparejar lados no correspondientes; invertir razón
+
+**P17. Inecuaciones e intervalos**  
+- **Estímulo:** Condiciones tipo >, <, entre  
+- **Qué evalúa:** Intervalos y verificación  
+- **Plantilla:** ¿Qué valores de {x} satisfacen {inecuacion}?  
+- **Distractores típicos:** Invertir desigualdad; olvidar extremos abiertos/cerrados
+
+**P18. Transformaciones y simetrías en el plano**  
+- **Estímulo:** Figura en plano cartesiano  
+- **Qué evalúa:** Traslación, rotación, reflexión  
+- **Plantilla:** ¿Qué transformación lleva {figura1} a {figura2}?  
+- **Distractores típicos:** Confundir reflexión con rotación; dirección incorrecta
+
+**P19. Lectura de unidades y conversión**  
+- **Estímulo:** Medidas con unidades (m, cm, s, km/h)  
+- **Qué evalúa:** Conversión y consistencia dimensional  
+- **Plantilla:** Convierta {valor}{unidad1} a {unidad2} y determine {resultado}.  
+- **Distractores típicos:** Mover decimal mal; no convertir antes de operar
+
+**P20. Selección del procedimiento correcto**  
+- **Estímulo:** Descripción de un método/estrategia  
+- **Qué evalúa:** Razonamiento sobre qué operación aplica  
+- **Plantilla:** Para hallar {cantidad}, ¿cuál procedimiento es adecuado?  
+- **Distractores típicos:** Elegir operación intuitiva pero incorrecta (sumar en vez de promediar, etc.)
+
+---
+
+# Análisis de Patrones - Simulacro Matemáticas 11° Cuadernillo 2 (2021)
+
+---
+
+## P1. Probabilidad con equiprobabilidad
+- **Estímulo:** Bolsa con 3 bolas rojas, 3 negras y 12 blancas; afirmación sobre probabilidades iguales
+- **Qué evalúa:** Concepto de probabilidad equiprobable vs no equiprobable
+- **Plantilla:** Una persona afirma que {evento}. Esta afirmación es verdadera/falsa porque...
+- **Distractores típicos:** Creer que igual número de tipos implica equiprobabilidad; ignorar frecuencias; no calcular probabilidades
+
+---
+
+## P2. Ángulos suplementarios
+- **Estímulo:** Torre de Pisa inclinada 4° respecto a la vertical
+- **Qué evalúa:** Relación entre ángulos que forman 90° (complementarios) o línea recta
+- **Plantilla:** Si un ángulo mide {valor}°, ¿cuánto mide {el otro ángulo relacionado}?
+- **Distractores típicos:** Confundir complementarios (90°) con suplementarios (180°); restar de 180° en vez de 90°; usar el mismo valor
+
+---
+
+## P3. Cálculo de porcentaje a partir de tabla
+- **Estímulo:** Tabla semanal de visitantes con/sin reserva en Torre de Pisa
+- **Qué evalúa:** Suma de datos tabulados, cálculo de porcentaje
+- **Plantilla:** ¿Qué porcentaje del total representa {categoría}?
+- **Distractores típicos:** Sumar incorrectamente; calcular porcentaje de subtotal en vez de total; errores de redondeo
+
+---
+
+## P4. Análisis de proceso de cálculo
+- **Estímulo:** Diagrama de proceso para calcular recaudos por tipo de entrada
+- **Qué evalúa:** Comprensión de qué información proporciona un procedimiento dado
+- **Plantilla:** ¿Cuál pregunta NO se puede resolver con {proceso dado}?
+- **Distractores típicos:** Confundir recaudo con ganancia; pensar que el proceso da más información de la que realmente da
+
+---
+
+## P5. Estimación de órdenes de magnitud
+- **Estímulo:** Recaudo total semanal (tabla con entradas y precios)
+- **Qué evalúa:** Estimación, cálculo con números grandes, sentido numérico
+- **Plantilla:** El total aproximado es {orden de magnitud}
+- **Distractores típicos:** Errores en notación (confundir miles con millones); no multiplicar correctamente; errores de punto decimal
+
+---
+
+## P6. Interpretación de mediana
+- **Estímulo:** Mediana de turistas sin reserva = 300, con reserva = 600
+- **Qué evalúa:** Concepto de mediana como medida de tendencia central (no es promedio ni total)
+- **Plantilla:** Con la mediana {valores}, ¿es correcto afirmar {conclusión sobre totales/promedios}?
+- **Distractores típicos:** Confundir mediana con promedio; pensar que mediana indica totales; confundir con moda
+
+---
+
+## P7. Identificación de patrón en secuencia geométrica
+- **Estímulo:** Tres figuras de piscinas con baldosas blancas y azules
+- **Qué evalúa:** Reconocimiento de patrones aritméticos en secuencias visuales
+- **Plantilla:** Según las figuras, ¿cuál afirmación sobre el patrón es correcta?
+- **Distractores típicos:** Ver patrón incorrecto; no contar bien; confundir incremento con razón; generalizar sin verificar
+
+---
+
+## P8. Eventos imposibles en probabilidad
+- **Estímulo:** 4 fichas: 1 azul-azul, 1 blanca-blanca, 2 azul-blanca
+- **Qué evalúa:** Análisis de espacio muestral, eventos posibles vs imposibles
+- **Plantilla:** ¿Cuál evento es imposible que ocurra?
+- **Distractores típicos:** No considerar todas las configuraciones; confundir imposible con poco probable; contar mal
+
+---
+
+## P9. Función a trozos (función definida por intervalos)
+- **Estímulo:** Costo de boleta según edad en intervalos
+- **Qué evalúa:** Representación gráfica de funciones escalonadas/por partes
+- **Plantilla:** La función definida por intervalos {descripción} tiene ¿cuál gráfica?
+- **Distractores típicos:** Unir puntos con líneas; valores incorrectos en saltos; intervalos mal delimitados (abiertos/cerrados)
+
+---
+
+## P10. Detección de error en razonamiento geométrico
+- **Estímulo:** Análisis paso a paso sobre ángulos de triángulo (cometa)
+- **Qué evalúa:** Identificación de error en cadena de razonamiento, suma de ángulos internos
+- **Plantilla:** En el análisis {pasos dados}, ¿en qué paso se comete un error?
+- **Distractores típicos:** Señalar pasos correctos; no identificar el error conceptual clave; confundir consecuencias con causas
+
+---
+
+## P11. Interpretación de gráfico circular con aplicación de porcentajes
+- **Estímulo:** Gráfico circular con porcentajes de calificación de servicio, 200 clientes encuestados
+- **Qué evalúa:** Conversión de porcentaje a cantidad absoluta
+- **Plantilla:** Dada la distribución porcentual y el total {n}, ¿cuál afirmación es verdadera?
+- **Distractores típicos:** No calcular la cantidad absoluta; sumar categorías incorrectamente; interpretar mal "más de" vs "menos de"
+
+---
+
+## P12. Reconstrucción de figura a partir de procedimiento geométrico
+- **Estímulo:** Descripción verbal de construcción geométrica (dividir segmento en dos partes congruentes)
+- **Qué evalúa:** Comprensión de construcción con regla y compás, congruencia
+- **Plantilla:** Según el procedimiento {descripción}, ¿cuál es la construcción correcta?
+- **Distractores típicos:** Figuras que no cumplen todas las condiciones; confundir triángulos equiláteros con isósceles; posición incorrecta
+
+---
+
+## P13. Conversión de unidades de tiempo y cálculo de excedente
+- **Estímulo:** Factura telefónica con plan de 220 minutos, consumo en gráfica
+- **Qué evalúa:** Lectura de gráfico de barras, resta, conversión minutos a horas
+- **Plantilla:** Si el plan es {cantidad} y se consumió {cantidad}, ¿cuál fue el tiempo adicional?
+- **Distractores típicos:** No restar el plan base; error en conversión min→h; leer mal la gráfica
+
+---
+
+## P14. Identificación de dato irrelevante
+- **Estímulo:** Cálculo de diferencia entre valor de minuto del plan y minuto adicional
+- **Qué evalúa:** Identificar qué datos son necesarios/innecesarios para un cálculo específico
+- **Plantilla:** Para hallar {cálculo}, ¿cuál dato NO se necesita?
+- **Distractores típicos:** Incluir todos los datos visibles; no distinguir entre información relevante e irrelevante
+
+---
+
+## P15. Razón/proporción con porcentajes (problema de tasa)
+- **Estímulo:** Tabla de clasificación de pacientes, Isabel nivel III (4-6h espera), turnos 180→240
+- **Qué evalúa:** Cálculo de tasa (personas/hora), interpretación de tiempos
+- **Plantilla:** Si en {tiempo} pasaron de turno {n} a {m}, ¿cuántos {unidad de tasa}?
+- **Distractores típicos:** Dividir mal (tiempo/personas en vez de personas/tiempo); no usar tiempo máximo; operación incorrecta
+
+---
+
+## P16. Transformaciones geométricas combinadas (traslación + homotecia)
+- **Estímulo:** Cuadrilátero trasladado 1 unidad izquierda, luego ampliado al doble desde vértice fijo
+- **Qué evalúa:** Aplicación secuencial de transformaciones geométricas
+- **Plantilla:** Tras aplicar {traslación} y luego {homotecia}, ¿cuáles son las coordenadas de {vértices}?
+- **Distractores típicos:** Aplicar transformaciones en orden incorrecto; no considerar punto fijo; escalar mal; trasladar en dirección incorrecta
+
+---
+
+## P17. Proporcionalidad inversa
+- **Estímulo:** Tabla de número de cuotas vs valor por cuota (producto constante = 80.000.000)
+- **Qué evalúa:** Reconocimiento de relación inversamente proporcional
+- **Plantilla:** Según la tabla, ¿cuál afirmación sobre proporcionalidad es verdadera?
+- **Distractores típicos:** Confundir directa con inversa; no verificar producto constante; interpretar mal "proporcional"
+
+---
+
+## P18. Diagrama de árbol de probabilidad
+- **Estímulo:** Selección de canciones de 3 CDs con salsa (S) y merengue (M)
+- **Qué evalúa:** Representación de experimento compuesto mediante diagrama de árbol
+- **Plantilla:** ¿Cuál diagrama representa {experimento compuesto}?
+- **Distractores típicos:** Número incorrecto de ramas; no considerar todas las combinaciones; estructura incorrecta del árbol
+
+---
+
+## P19. Identificación de función trigonométrica a partir de gráfica
+- **Estímulo:** Gráfica de temperatura vs tiempo (curva periódica)
+- **Qué evalúa:** Reconocimiento de funciones seno/coseno con transformaciones (amplitud, desplazamiento vertical)
+- **Plantilla:** ¿Cuál expresión corresponde a la curva que describe {variable} en función de {variable}?
+- **Distractores típicos:** Confundir seno con coseno; amplitud incorrecta; desplazamiento vertical incorrecto; periodo incorrecto
+
+---
+
+## P20. Análisis de afirmación sobre razón/velocidad
+- **Estímulo:** Auto con velocidad máxima 100 km/h; afirmación: "en 100h recorrerá 1km"
+- **Qué evalúa:** Comprensión de velocidad como razón distancia/tiempo
+- **Plantilla:** La afirmación "{enunciado sobre razón}" es verdadera/falsa porque...
+- **Distractores típicos:** Invertir la razón (confundir numerador/denominador); división incorrecta; no aplicar fórmula v=d/t correctamente
+
+---
+# Análisis de Patrones - Simulacro Matemáticas 11° Cuadernillo 1 (2021)
+---
+
+## P1. Expresión algebraica simple (producto)
+- **Estímulo:** Precio p por paquete, 10 paquetes disponibles, compra solo 6 (10-4 vencidos)
+- **Qué evalúa:** Traducción de situación a expresión algebraica con una variable
+- **Plantilla:** Si el precio de {unidad} es {variable} y compra {cantidad}, ¿cuánto gastó?
+- **Distractores típicos:** Sumar en vez de multiplicar; usar cantidad incorrecta (total en vez de comprados); confundir operaciones
+
+---
+
+## P2. Análisis de tabla de doble entrada (juego)
+- **Estímulo:** Juego "Piedra, papel o tijera" con reglas de intercambio de comida; Tabla 2 con resultados
+- **Qué evalúa:** Verificación de coherencia entre reglas y tabla de resultados
+- **Plantilla:** En la tabla que muestra {resultados según condiciones}, ¿cuál casilla es incorrecta?
+- **Distractores típicos:** Confundir quién gana con quién obtiene qué; no aplicar las reglas correctamente; señalar casillas correctas
+
+---
+
+## P3. Error en cálculo de probabilidad compuesta
+- **Estímulo:** Probabilidad de ganar lunes (3/9) y martes; suma 3/9 + 3/9 = 6/9
+- **Qué evalúa:** Identificación de error conceptual en probabilidad de eventos independientes
+- **Plantilla:** El procedimiento {pasos} es incorrecto porque...
+- **Distractores típicos:** Señalar cálculo correcto como incorrecto; no identificar que eventos independientes se multiplican, no se suman
+
+---
+
+## P4. Transformación de representaciones estadísticas
+- **Estímulo:** Gráfico de barras horizontales apiladas con exportaciones por país y año
+- **Qué evalúa:** Equivalencia entre diferentes representaciones gráficas de mismos datos
+- **Plantilla:** ¿Cuál representación muestra la misma información que {gráfico dado}?
+- **Distractores típicos:** Gráficos con datos incompletos; escalas incorrectas; categorías faltantes; agrupaciones incorrectas
+
+---
+
+## P5. Razonamiento lógico con restricciones
+- **Estímulo:** 5 casas en pentágono, todas con diferente número de pisos, máximo 5 pisos (Pérez, más alta)
+- **Qué evalúa:** Deducción lógica con restricciones (diferentes cantidades, máximo conocido)
+- **Plantilla:** Dadas las restricciones {condiciones}, ¿cuál es {suma/total/cantidad}?
+- **Distractores típicos:** No usar que todas son diferentes; no maximizar/minimizar según se pide; contar repetidos
+
+---
+
+## P6. Transformaciones geométricas: rotación 90°
+- **Estímulo:** Tres figuras rotadas 90° en sentido horario respecto al origen
+- **Qué evalúa:** Correcta aplicación de rotación en plano cartesiano
+- **Plantilla:** Tras rotar {ángulo} en sentido {horario/antihorario}, ¿cuáles transformaciones son correctas?
+- **Distractores típicos:** Rotar en sentido contrario; ángulo incorrecto; centro de rotación incorrecto; reflexiones en vez de rotaciones
+
+---
+
+## P7. Deducción lógica a partir de ecuaciones/equivalencias
+- **Estímulo:** 5 equivalencias de peso entre cajas de colores; preguntan cuál se puede deducir
+- **Qué evalúa:** Razonamiento transitivo, cadenas de inferencia algebraicas
+- **Plantilla:** De las relaciones {lista}, ¿cuál información adicional se puede deducir?
+- **Distractores típicos:** Afirmar deducciones imposibles; no seguir cadena completa de razonamiento; invertir desigualdades
+
+---
+
+## P8. Ordenamiento según restricciones múltiples
+- **Estímulo:** Equivalencias de peso entre cajas, organizar de más pesada a más liviana
+- **Qué evalúa:** Aplicación de relaciones de orden transitivas
+- **Plantilla:** Dadas las relaciones {equivalencias}, ¿cuál ordenamiento es correcto?
+- **Distractores típicos:** Invertir orden; no aplicar transitividad; usar solo parte de la información; ordenamiento parcialmente correcto
+
+---
+
+## P9. Validación de razonamiento algebraico
+- **Estímulo:** Ecuación 3V = 2R y V + R = 100; afirmación V=60, R=40 con justificación
+- **Qué evalúa:** Análisis crítico de validez de argumentación matemática, unicidad de solución
+- **Plantilla:** El razonamiento "{argumento}" es correcto/incorrecto porque...
+- **Distractores típicos:** Aceptar argumento insuficiente; no reconocer infinitas soluciones; confundir verificación con demostración única
+
+---
+
+## P10. Representación simbólica de relaciones
+- **Estímulo:** Tres equivalencias entre cajas (2C=3R, 3B=2A, 3V=2R)
+- **Qué evalúa:** Traducción de ecuaciones a diagramas pictóricos proporcionales
+- **Plantilla:** ¿Cuál representación visual muestra correctamente {relaciones algebraicas}?
+- **Distractores típicos:** Proporciones incorrectas en dibujos; no balancear ecuaciones; invertir relaciones; confundir lados de igualdad
+
+---
+
+## P11. Suficiencia de información para conclusión
+- **Estímulo:** Gráfico con cantidad vendida por producto; afirmación sobre ingresos totales iguales
+- **Qué evalúa:** Identificación de información faltante para resolver problema
+- **Plantilla:** ¿La información dada es suficiente para determinar {conclusión}?
+- **Distractores típicos:** Creer que cantidad implica ingresos; no identificar que falta precio; confundir necesario con suficiente
+
+---
+
+## P12. Cálculo de variación porcentual
+- **Estímulo:** Fórmula de cambio porcentual: |marzo-abril|/marzo × 100; gráfico con ventas
+- **Qué evalúa:** Aplicación de fórmula de variación porcentual, comparación de resultados
+- **Plantilla:** Aplicando la fórmula {expresión}, ¿cuál {categoría} tuvo mayor cambio?
+- **Distractores típicos:** No usar valor absoluto; dividir por valor incorrecto; no comparar todos; error en cálculo porcentual
+
+---
+
+## P13. Análisis de tabla de relaciones (complementariedad)
+- **Estímulo:** Tabla de comercio entre países (quién vende a quién, quién compra de quién)
+- **Qué evalúa:** Completar información faltante usando relaciones bidireccionales
+- **Plantilla:** Dada la tabla de relaciones {matriz}, ¿cuál es la información de {elemento faltante}?
+- **Distractores típicos:** No usar simetría (si A vende a B, B compra de A); información inconsistente; leer mal la tabla
+
+---
+
+## P14. Razones y proporciones geométricas
+- **Estímulo:** Rectángulo con lados en razón 2:1, lado mayor = 20m
+- **Qué evalúa:** Aplicación de razones para hallar dimensiones, cálculo de área
+- **Plantilla:** Si los lados están en razón {a:b} y {dato conocido}, ¿cuál es {área/perímetro}?
+- **Distractores típicos:** Confundir razón con diferencia; calcular perímetro en vez de área; invertir razón; usar lado incorrecto
+
+---
+
+## P15. Optimización con restricción presupuestal
+- **Estímulo:** Tarifas de vuelos con descuentos, presupuesto $5.500.000, tres opciones de distribución
+- **Qué evalúa:** Evaluación de múltiples escenarios con cálculo de costos
+- **Plantilla:** Con presupuesto {cantidad} y opciones {lista}, ¿cuál(es) usa(n) exactamente el presupuesto?
+- **Distractores típicos:** No aplicar descuentos; error en multiplicación; comparar con ≤ en vez de =; sumar mal
+
+---
+
+## P16. Información insuficiente en sistema de ecuaciones
+- **Estímulo:** Tabla con 3 trayectos y precios; pregunta sobre otros 3 trayectos no listados
+- **Qué evalúa:** Identificar qué información NO se puede determinar con datos dados
+- **Plantilla:** Con la información {datos}, ¿cuáles valores NO se pueden determinar?
+- **Distractores típicos:** Asumir simetría (ida=vuelta); pensar que se puede calcular todo; no identificar grados de libertad
+
+---
+
+## P17. Comparación de crecimientos (lineal vs cuadrático)
+- **Estímulo:** Dos gráficas de salario vs año; trabajador 1 lineal constante, trabajador 2 con incrementos crecientes
+- **Qué evalúa:** Extrapolación de patrones de crecimiento
+- **Plantilla:** Según los patrones de crecimiento, ¿quién tendrá mayor {valor} a partir de {momento}?
+- **Distractores típicos:** Comparar solo valores visibles; no extrapolar patrón; confundir incremento con valor absoluto
+
+---
+
+## P18. Análisis de proporcionalidad en decisión
+- **Estímulo:** Misma cantidad de dinero para 100 personas/destino; reduce 25% personas a Cartagena
+- **Qué evalúa:** Comprensión de relación entre precio y cantidad bajo presupuesto constante
+- **Plantilla:** La decisión de {acción} es adecuada/inadecuada porque...
+- **Distractores típicos:** No calcular proporción correctamente; confundir 25% menos con 75%; no verificar si presupuestos quedan iguales
+
+---
+
+## P19. Suficiencia de datos para optimización
+- **Estímulo:** Tabla de celulares revisados por trabajador en cada jornada; maximizar producción con un trabajador/jornada
+- **Qué evalúa:** Identificar si información dada permite tomar decisión de optimización
+- **Plantilla:** ¿Es posible determinar {decisión óptima} con la información dada?
+- **Distractores típicos:** Creer que promedios son suficientes cuando se necesitan valores individuales; confundir necesario con suficiente
+
+---
+
+## P20. Combinaciones (coeficiente binomial)
+- **Estímulo:** Escoger 3 estudiantes de un grupo, hay 10 selecciones posibles (C(n,3) = 10)
+- **Qué evalúa:** Aplicación inversa de fórmula de combinaciones
+- **Plantilla:** Si C(n, k) = {valor}, ¿cuál es n?
+- **Distractores típicos:** Confundir combinaciones con permutaciones; usar n=10 directamente; multiplicar en vez de resolver ecuación; no probar valores
+
+---
+
+# Análisis de Patrones - Simulacro Matemáticas 11° Cuadernillo 2 (2023)
+
+---
+
+## P1. Transformación porcentaje a frecuencia absoluta y representación
+- **Estímulo:** 120 personas encuestadas, 30% loro, 40% perro, 30% gato
+- **Qué evalúa:** Conversión de porcentajes a cantidades absolutas, selección de representación adecuada
+- **Plantilla:** Dados {total} y porcentajes {distribución}, ¿cuál representación muestra correctamente la información?
+- **Distractores típicos:** Mostrar porcentajes en vez de cantidades; cálculo incorrecto de frecuencias; gráficos incompletos; confundir tipos de gráfico
+
+---
+
+## P2. Simplificación de expresión algebraica con división
+- **Estímulo:** Polinomio p(x) = (x⁴/100 - 12x³/10 + 36x² + 100x)/10x
+- **Qué evalúa:** Simplificación algebraica, división de polinomios, factorización
+- **Plantilla:** ¿Cuál expresión es equivalente a {expresión algebraica} para x ≠ 0?
+- **Distractores típicos:** No dividir todos los términos; errores con coeficientes; no simplificar completamente; mantener denominador original
+
+---
+
+## P3. Clasificación de triángulos por razones trigonométricas
+- **Estímulo:** sen(P)>0, sen(Q)>0, sen(R)>0; cos(P)>0, cos(Q)>0, cos(R)<0
+- **Qué evalúa:** Relación entre signo de funciones trigonométricas y tipo de ángulo/triángulo
+- **Plantilla:** Dadas las condiciones sobre {funciones trigonométricas}, ¿cómo se clasifica el triángulo?
+- **Distractores típicos:** No identificar que cos<0 implica ángulo obtuso; confundir clasificaciones; no usar todos los datos
+
+---
+
+## P4. Comparación de medianas entre conjuntos de datos
+- **Estímulo:** Tabla con 5 pruebas de batería para 3 modelos de celular
+- **Qué evalúa:** Cálculo e interpretación de mediana, comparación entre grupos
+- **Plantilla:** Al comparar la mediana de {grupos}, ¿cuál afirmación es correcta?
+- **Distractores típicos:** Calcular mal la mediana (no ordenar datos); confundir con promedio; comparaciones incorrectas
+
+---
+
+## P5. Construcción geométrica con círculos (homotecia)
+- **Estímulo:** Procedimiento para obtener segmento 4 veces más largo; preguntan por 16 veces
+- **Qué evalúa:** Comprensión de patrón geométrico multiplicativo
+- **Plantilla:** Si el proceso {descripción} multiplica por {factor1}, ¿cuántos pasos/elementos para multiplicar por {factor2}?
+- **Distractores típicos:** Pensar que es aditivo (16÷4=4 círculos); confundir con 16 círculos; no ver patrón exponencial
+
+---
+
+## P6. Validación de procedimientos algebraicos
+- **Estímulo:** Ecuación (x+2)(x+3)=5(x+3); tres estudiantes con procedimientos diferentes
+- **Qué evalúa:** Identificación de métodos correctos para resolver ecuaciones
+- **Plantilla:** ¿Cuál(es) procedimiento(s) {descripción} es/son correcto(s)?
+- **Distractores típicos:** Aceptar procedimientos con errores conceptuales; no verificar todos los pasos; confundir correctitud con resultado
+
+---
+
+## P7. Cálculo de promedio requerido
+- **Estímulo:** 3 evaluaciones con notas 70, 93, 89; promedio deseado = 80
+- **Qué evalúa:** Ecuación de promedio, despeje de variable
+- **Plantilla:** Si el promedio de {n valores y uno desconocido} debe ser {valor}, ¿cuál debe ser el valor desconocido?
+- **Distractores típicos:** Promediar solo los 3 valores dados; calcular diferencia simple; no usar fórmula correcta
+
+---
+
+## P8. Detección de error en cálculo de rapidez
+- **Estímulo:** Cálculo de rapidez media en 3 pasos con error en paso 3 (unidades invertidas)
+- **Qué evalúa:** Identificación de error en procedimiento, análisis dimensional
+- **Plantilla:** En el procedimiento {pasos}, ¿en qué paso hay error y por qué?
+- **Distractores típicos:** Señalar pasos correctos; no identificar error de unidades; confundir operación con análisis dimensional
+
+---
+
+## P9. Validación de procedimientos para reparto proporcional
+- **Estímulo:** 10, 6, 4 acciones; $80.000.000; dos procedimientos propuestos por Mario
+- **Qué evalúa:** Comprensión de proporcionalidad, equivalencia entre procedimientos
+- **Plantilla:** Para repartir proporcionalmente {cantidad}, ¿cuál(es) procedimiento(s) es/son correcto(s)?
+- **Distractores típicos:** Procedimiento 1 incorrecto (×10 luego ÷100); no verificar equivalencia aritmética; aceptar solo uno cuando ambos pueden ser válidos
+
+---
+
+## P10. Evaluación de procedimiento para optimización discreta
+- **Estímulo:** Muro de 20.000 cm², bloques de 6500, 2000, 500 cm²; al menos uno de cada tipo
+- **Qué evalúa:** Análisis crítico de método propuesto, razonamiento sobre restricciones
+- **Plantilla:** ¿El procedimiento {descripción} es correcto para {objetivo}?
+- **Distractores típicos:** Aceptar división simple como suficiente; no considerar que resultado no entero es problema; ignorar restricciones
+
+---
+
+## P11. Razonamiento sobre densidad de racionales
+- **Estímulo:** Números 1/5 y 1/7; afirmación sobre números entre ellos con denominador 6
+- **Qué evalúa:** Comprensión de densidad de racionales, contraejemplo
+- **Plantilla:** ¿Es correcto que {enunciado sobre números racionales}?
+- **Distractores típicos:** Pensar que solo hay números con denominador 6; no encontrar contraejemplo; confundir orden de fracciones
+
+---
+
+## P12. Interpretación de desigualdad en contexto
+- **Estímulo:** Dos opciones de entrada a parque; desigualdad 20000+1000x < 15000+1200x
+- **Qué evalúa:** Significado de desigualdad en contexto, interpretación de solución
+- **Plantilla:** Al resolver la desigualdad {expresión}, ¿qué se puede encontrar?
+- **Distractores típicos:** Confundir dirección de desigualdad; interpretar como rango de costos en vez de cantidades; invertir opciones
+
+---
+
+## P13. Detección de error en simplificación algebraica
+- **Estímulo:** Expresión -(8a+2b-5a-4b)4a simplificada incorrectamente en 4 pasos
+- **Qué evalúa:** Identificación de error en manipulación algebraica con signos
+- **Plantilla:** En el procedimiento {pasos}, ¿en cuál paso se equivocó?
+- **Distractores típicos:** Paso 2 (no cambiar signos al distribuir negativo); no ver el error específico; señalar pasos correctos
+
+---
+
+## P14. Interpretación de procedimiento con porcentajes
+- **Estímulo:** Gráfico circular de participación; procedimiento: sumar T1+T2, multiplicar por total, dividir entre 100
+- **Qué evalúa:** Comprensión de cálculo de cantidad a partir de porcentaje
+- **Plantilla:** Al ejecutar el procedimiento {pasos}, ¿cuál dato se determina?
+- **Distractores típicos:** Total extranjeras (correcto) vs una empresa; confundir porcentaje con cantidad; no seguir la lógica del procedimiento
+
+---
+
+## P15. Principio de multiplicación (conteo)
+- **Estímulo:** Menú con 2 entradas, 4 platos fuertes, 3 postres, 4 dulces
+- **Qué evalúa:** Aplicación del principio multiplicativo para contar combinaciones
+- **Plantilla:** Con {n₁} opciones de {categoría1}, {n₂} de {categoría2}..., ¿cuántas combinaciones hay?
+- **Distractores típicos:** Sumar en vez de multiplicar (2+4+3+4=13); multiplicar parcialmente; confundir con permutaciones
+
+---
+
+## P16. Aplicación de logaritmos en contexto astronómico
+- **Estímulo:** Fórmula m-M = 5log₁₀(d/10); d=100→diferencia=5; hallar m cuando d=1000, M=15
+- **Qué evalúa:** Sustitución en fórmulas logarítmicas, razonamiento proporcional
+- **Plantilla:** Dada la fórmula {expresión} y condiciones {datos}, ¿cuál es el valor de {variable}?
+- **Distractores típicos:** No usar logaritmo correctamente; errores de sustitución; no aplicar dato de referencia
+
+---
+
+## P17. Identificación de fórmula para suma de impares
+- **Estímulo:** Secuencia 1, 3, 5, 7... (suma 2 cada vez); puntaje total = suma de n cartas
+- **Qué evalúa:** Reconocimiento de suma de primeros n impares = n²
+- **Plantilla:** Para la secuencia {patrón}, ¿cuál fórmula calcula {suma/total}?
+- **Distractores típicos:** 2n-1 (término n-ésimo, no suma); 2n+1; n+2; no reconocer patrón de suma
+
+---
+
+## P18. Análisis dimensional y conversión de unidades
+- **Estímulo:** 0.01 litros × 13600 kg/m³ = 136 kg (error: no convirtió litros a m³)
+- **Qué evalúa:** Coherencia dimensional, conversión de unidades de volumen
+- **Plantilla:** ¿Es correcto el cálculo {operación con unidades}?
+- **Distractores típicos:** Aceptar error; creer que 0.01L = 1m³; no identificar necesidad de conversión
+
+---
+
+## P19. Propiedades de exponentes en multiplicación de polinomios
+- **Estímulo:** Multiplicar (x²-2x+3) × (x²+4x+1); máximo exponente será 4
+- **Qué evalúa:** Comprensión de ley de exponentes (xᵃ·xᵇ = xᵃ⁺ᵇ)
+- **Plantilla:** ¿Por qué el exponente máximo del producto es {valor}?
+- **Distractores típicos:** Pensar que se multiplican exponentes (2×2=4); confundir con número de términos; elevar al cuadrado
+
+---
+
+## P20. Análisis de distancias en malla cuadriculada
+- **Estímulo:** Dos caminos de M a N en cuadrícula 10m×10m; afirmación: ambos = 60m
+- **Qué evalúa:** Cálculo de distancia como suma de segmentos horizontales/verticales
+- **Plantilla:** ¿Es verdadera la afirmación {enunciado sobre distancias}?
+- **Distractores típicos:** Confundir área encerrada con distancia; usar perímetro; no contar lados correctamente
+
+---
+
+A continuación presento el análisis de los patrones de preguntas encontrados en el simulacro de matemáticas (preguntas 24 a 47) de la serie "Helmer Pardo Pineda".
+
+---
+
+### **Patrones de Preguntas: Simulacro Matemáticas**
+
+**P24. Interpretación de datos estadísticos (Parte-Todo)**
+- **Estímulo:** Tabla con datos numéricos de diferentes categorías y un total.
+- **Qué evalúa:** Razonamiento cuantitativo y cálculo de proporciones/fracciones.
+- **Plantilla:** ¿Qué fracción o parte del total de {población} representa la suma de {categoría A} y {categoría B}?
+- **Distractores típicos:** Tomar solo una categoría; usar un denominador incorrecto; simplificar mal la fracción.
+
+**P25. Aplicación de fórmulas geométricas**
+- **Estímulo:** Una fórmula dada (ej. área de un triángulo equilátero) y un valor para la variable.
+- **Qué evalúa:** Competencia algebraica y sustitución numérica.
+- **Plantilla:** El área de {figura} se halla con {fórmula}. Si el lado mide {valor}, ¿cuál es el área?
+- **Distractores típicos:** No elevar al cuadrado; error en la simplificación de raíces; confundir la fórmula con la de otra figura.
+
+**P26. Propiedades de los números y radicales**
+- **Estímulo:** Una expresión algebraica con raíces (ej. $P = a\sqrt{b}$).
+- **Qué evalúa:** Conocimiento de los conjuntos numéricos (enteros, irracionales) y sus condiciones.
+- **Plantilla:** Para que la expresión {expresión} sea un número entero, se debe cumplir que...
+- **Distractores típicos:** Afirmar que cualquier número sirve; no considerar que la raíz debe ser exacta.
+
+---
+
+## P27. Visualización Espacial: Desarrollo Plano de Sólidos (2D a 3D)
+- **Estímulo:** Un dibujo técnico de un sólido (pirámide, cubo o prisma) desplegado en un plano (molde) con marcas, colores o flechas específicas en algunas de sus caras.
+- **Qué evalúa:** *Competencia:* Interpretación y Representación. *Componente:* Geometría (Abstracción espacial).
+- **Plantilla:** Al armar el siguiente molde, ¿cuál de los sólidos mostrados en las opciones corresponde al resultado final preservando la posición de las marcas?
+- **Distractores típicos:** Sólidos con caras invertidas (efecto espejo); marcas en caras adyacentes que no deberían tocarse físicamente en el armado; orientaciones de flechas rotadas 90°.
+
+---
+
+## P28. Validación de Argumentos con "Justificación Cuádruple" (Formato Crítico)
+- **Estímulo:** Una tesis sobre una tendencia de datos (ej: "Las ventas siempre aumentaron") o una propiedad geométrica, seguida de un sustento basado en una tabla o gráfico.
+- **Qué evalúa:** *Competencia:* Argumentación (Validez de la tesis + Validez del sustento). *Componente:* Transversal.
+- **Plantilla:** Un analista afirma que {tesis}. Esta afirmación es:
+  - A. Correcta, porque [razón verdadera y pertinente].
+  - B. Correcta, porque [razón verdadera pero no explica la tesis].
+  - C. Incorrecta, porque [razón verdadera].
+  - D. Incorrecta, porque [razón falsa o mal cálculo].
+- **Distractores típicos:** La "conclusión" (Correcta/Incorrecta) coincide, pero la "justificación" es una lectura errónea o un dato irrelevante del gráfico.
+
+---
+
+## P29. Comparación de Homogeneidad (Interpretación de Dispersión)
+- **Estímulo:** Dos conjuntos de datos (ej: salarios de dos empresas) que tienen exactamente el mismo promedio pero distribuciones visuales muy distintas.
+- **Qué evalúa:** *Competencia:* Interpretación / Argumentación. *Componente:* Estadística (Desviación estándar conceptual).
+- **Plantilla:** Ambos grupos presentan un promedio de {X}. El Grupo A tiene una desviación de {S1} y el Grupo B de {S2}. Según esto, ¿cuál grupo es más homogéneo y por qué?
+- **Distractores típicos:** Creer que a mayor desviación mayor promedio; asumir que grupos con igual media tienen igual comportamiento; confundir rango con desviación.
+
+---
+
+## P30. Modelación de Volúmenes por Optimización (Recorte de Esquinas)
+- **Estímulo:** Una lámina rectangular de dimensiones {L x A} cm a la que se le recortan cuadrados de lado `x` en las cuatro esquinas para formar una caja sin tapa.
+- **Qué evalúa:** *Competencia:* Formulación y Ejecución. *Componente:* Álgebra (Modelado polinómico de grado 3).
+- **Plantilla:** ¿Cuál de las siguientes expresiones algebraicas representa el volumen V de la caja armada en términos del recorte `x`?
+- **Distractores típicos:** Olvidar que se restan dos veces el valor de `x` por lado (`L-x` en lugar de `L-2x`); multiplicar solo dos dimensiones (área en vez de volumen).
+
+---
+
+## P31. Probabilidad Condicionada por Reducción de Espacio muestral
+- **Estímulo:** Una situación de extracción secuencial (urnas o cartas) **SIN reposición** con una condición previa ya cumplida (ej: "Si se sabe que la primera fue roja...").
+- **Qué evalúa:** *Competencia:* Formulación y Ejecución. *Componente:* Estadística (Probabilidad condicionada).
+- **Plantilla:** Dado que en el primer intento ocurrió {evento A}, ¿cuál es la probabilidad de que en el segundo ocurra {evento B}?
+- **Distractores típicos:** Calcular la probabilidad como si hubiera reposición; no actualizar el denominador del espacio muestral; calcular la probabilidad simple ignorando la condición "Dado que...".
+
+---
+
+## P32. Trigonometría de Triángulos Oblicuángulos (Seno/Coseno)
+- **Estímulo:** Situación de topografía o navegación donde se conocen dos lados y un ángulo, o dos ángulos y un lado, en un triángulo no rectángulo.
+- **Qué evalúa:** *Competencia:* Formulación y Ejecución. *Componente:* Geometría (Teoremas del Seno y Coseno).
+- **Plantilla:** Para hallar la distancia entre {Punto A} y {Punto B}, sabiendo que {Datos}, la expresión correcta es...
+- **Distractores típicos:** Intentar aplicar Pitágoras en triángulos sin ángulo de 90°; invertir la fracción en el Teorema del Seno; olvidar el término `-2bc cos(A)` en el Teorema del Coseno.
+
+---
+
+## P33. Geometría Analítica: Ecuación de la Circunferencia
+- **Estímulo:** Descripción de una zona de cobertura circular (como una antena o antena de radio) ubicada en coordenadas (h, k) con un radio R.
+- **Qué evalúa:** *Competencia:* Interpretación y Representación. *Componente:* Geometría (Contenidos No Genéricos).
+- **Plantilla:** ¿Cuál de las siguientes ecuaciones describe el límite de la zona de cobertura si el centro se desplaza a {x, y}?
+- **Distractores típicos:** Confundir los signos en `(x-h)² + (y-k)²`; olvidar elevar el radio al cuadrado; usar la ecuación de la elipse o parábola.
+
+---
+
+## P34. Probabilidad Total y Teorema de Bayes
+- **Estímulo:** Una prueba diagnóstica con tasas de efectividad (sensibilidad/especificidad) y la prevalencia de una condición en la población.
+- **Qué evalúa:** *Competencia:* Argumentación / Formulación. *Componente:* Estadística (Eventos dependientes).
+- **Plantilla:** Si una persona obtiene un resultado positivo, ¿cuál es la probabilidad real de que tenga la condición?
+- **Distractores típicos:** Ignorar la probabilidad base (prevalencia); sumar porcentajes directamente; confundir Falso Positivo con Falso Negativo.
+
+---
+
+## P35. Inferencia Estadística: Sesgo y Representatividad
+- **Estímulo:** Descripción de un estudio o encuesta con una técnica de muestreo específica (ej. conveniencia, voluntaria) y una conclusión categórica.
+- **Qué evalúa:** *Competencia:* Argumentación. *Componente:* Estadística (Muestreo e Inferencia).
+- **Plantilla:** ¿Por qué la conclusión del estudio sobre {tema} no es estadísticamente válida para toda la población?
+- **Distractores típicos:** Validar la muestra solo por su tamaño total; no identificar el sesgo de selección; confundir correlación con causalidad.
+
+---
+
+## P36. Comportamiento Asintótico (Límites al Infinito)
+- **Estímulo:** Modelo matemático de crecimiento poblacional o saturación (ej. $P(t) = \frac{Kt}{A+t}$) representado en una gráfica.
+- **Qué evalúa:** *Competencia:* Interpretación y Representación. *Componente:* Álgebra y Cálculo (Límites conceptuales).
+- **Plantilla:** Según el modelo, a largo plazo, el valor de la población se estabilizará en...
+- **Distractores típicos:** Predecir crecimiento infinito; identificar el intercepto en Y como el límite; confundir la asíntota vertical con la horizontal.
+
+---
+
+## P37. Diagramas de Venn de 3 Conjuntos (Intersecciones Complejas)
+- **Estímulo:** Datos de una encuesta donde las personas eligen entre 3 opciones (Preferencias A, B y C) incluyendo intersecciones triples.
+- **Qué evalúa:** *Competencia:* Formulación y Ejecución. *Componente:* Estadística (Lógica de conjuntos).
+- **Plantilla:** ¿Cuántas personas prefieren **exactamente** dos de las tres opciones dadas?
+- **Distractores típicos:** Contar la intersección triple dentro de las intersecciones dobles; sumar totales de cardinalidad sin restar traslapes; confundir "O" inclusivo con exclusivo.
+
+---
+
+## P38. Suficiencia de Información (Razonamiento Lógico)
+- **Estímulo:** Un problema geométrico o numérico complejo y se ofrecen dos afirmaciones (1) y (2) con datos adicionales.
+- **Qué evalúa:** *Competencia:* Argumentación / Lógica. *Componente:* Transversal.
+- **Plantilla:** Para resolver el problema, la información brindada en (1) y (2) es:
+  - A. (1) por sí sola es suficiente.
+  - B. (2) por sí sola es suficiente.
+  - C. Es necesario usar (1) y (2) juntas.
+  - D. La información es insuficiente aun uniendo ambas.
+- **Distractores típicos:** Tratar de hacer el cálculo en lugar de evaluar la lógica; asumir datos visuales no declarados.
+
+---
+
+## P39. Optimización Espacial y Empaquetamiento
+- **Estímulo:** Intento de guardar objetos rígidos (ej. balones, cilindros) dentro de una caja con dimensiones fijas dadas.
+- **Qué evalúa:** *Competencia:* Formulación y Ejecución. *Componente:* Geometría / Métrica.
+- **Plantilla:** Si cada objeto tiene un diámetro de {D}, ¿cuál es el número máximo de ellos que caben en la caja de dimensiones {X, Y, Z}?
+- **Distractores típicos:** Dividir el volumen total de la caja entre el volumen del objeto (ignorando los espacios vacíos); no considerar la orientación del objeto.
+
+---
+
+## P40. Modelación de Funciones a Trozos (Tarifas)
+- **Estímulo:** Situación de cobro variable (ej: los primeros 10m³ a $X, los excedentes a $Y) con cargo fijo incluido.
+- **Qué evalúa:** *Competencia:* Interpretación y Representación. *Componente:* Álgebra y Cálculo.
+- **Plantilla:** ¿Cuál de las siguientes gráficas representa el costo total frente al consumo?
+- **Distractores típicos:** Gráficas lineales que ignoran el punto de quiebre; saltos de discontinuidad donde no existen; gráficas que inician en (0,0) ignorando el cargo fijo.
+
+---
+
+## P41. Razones de Cambio (Pendiente de la Curva)
+- **Estímulo:** Una gráfica no lineal (ej: llenado de un jarrón irregular) que muestra altura vs tiempo.
+- **Qué evalúa:** *Competencia:* Interpretación / Argumentación. *Componente:* Variacional (Derivada conceptual).
+- **Plantilla:** En el intervalo {T1, T2}, el proceso se está:
+  - A. Acelerando (llenando más rápido).
+  - B. Desacelerando (llenando más lento).
+  - C. Manteniendo constante.
+  - D. Deteniendo.
+- **Distractores típicos:** Mirar solo el valor absoluto de la altura; confundir una pendiente decreciente con un valor negativo del proceso.
+
+**P27. Geometría en el plano cartesiano (Ángulos)**
+- **Estímulo:** Coordenadas de vértices de una figura en el plano.
+- **Qué evalúa:** Relaciones espaciales y comparación de medidas angulares.
+- **Plantilla:** Respecto a las medidas de los ángulos del triángulo con vértices {A, B, C}, es correcto afirmar que...
+- **Distractores típicos:** Invertir la relación de mayor/menor; asumir que es un triángulo que no es (ej. pensar que es equilátero sin calcular).
+
+**P28. Conteo y combinatoria**
+- **Estímulo:** Un sistema de codificación (placas, claves) con restricciones de letras y números.
+- **Qué evalúa:** Principio multiplicativo de la probabilidad y conteo.
+- **Plantilla:** ¿Cuántas combinaciones diferentes de {objeto} se pueden formar si se usan {n} letras y {m} dígitos con la restricción {X}?
+- **Distractores típicos:** No elevar a la potencia correcta; olvidar restar opciones si hay restricciones; sumar en lugar de multiplicar.
+
+**P29. Geometría Analítica (Puntos en cónicas)**
+- **Estímulo:** Ecuación de una elipse o círculo y su representación gráfica.
+- **Qué evalúa:** Verificación de coordenadas en una ecuación cuadrática.
+- **Plantilla:** ¿Por cuál de los siguientes puntos (x, y) NO pasa el corte definido por la ecuación {ecuación}?
+- **Distractores típicos:** Puntos que están dentro de la figura pero no sobre el borde; error de signos al sustituir.
+
+**P30. Probabilidad condicional (Diagrama de árbol)**
+- **Estímulo:** Descripción de un proceso de dos etapas (ej. prueba y contraprueba).
+- **Qué evalúa:** Representación gráfica de eventos dependientes o sucesivos.
+- **Plantilla:** El diagrama de árbol que ilustra los posibles resultados de las pruebas es...
+- **Distractores típicos:** Diagramas que no muestran la segunda etapa; omitir ramas de resultados negativos.
+
+**P31 y P35. Razones trigonométricas en polígonos**
+- **Estímulo:** Una figura geométrica (decágono, hexágono) inscrita o compuesta.
+- **Qué evalúa:** Uso de Seno, Coseno o Tangente para hallar medidas longitudinales.
+- **Plantilla:** Con la expresión {trig} se puede calcular en el {polígono} la medida de...
+- **Distractores típicos:** Confundir el cateto opuesto con el adyacente; usar el ángulo incorrecto (ej. usar el ángulo interno en vez del central).
+
+**P32. Funciones exponenciales y tasas de cambio**
+- **Estímulo:** Función de crecimiento $P(t) = a^t$ y una condición de "superpoblación".
+- **Qué evalúa:** Análisis del crecimiento de una función y comparación de variaciones.
+- **Plantilla:** ¿A partir de qué {tiempo} la variación es {n} veces mayor que el inicio?
+- **Distractores típicos:** Confundir el valor de la función con la variación (resta); error en el cálculo de potencias.
+
+**P33. Teoría de números (Divisibilidad)**
+- **Estímulo:** Definición de una regla de divisibilidad (ej. la regla del 11).
+- **Qué evalúa:** Aplicación de algoritmos lógicos matemáticos.
+- **Plantilla:** ¿Cuál de los siguientes números es divisible por {n} siguiendo la regla descrita?
+- **Distractores típicos:** Números que "parecen" múltiplos pero fallan la prueba de la suma/resta de posiciones.
+
+**P34. Cálculo de volumen y comparación**
+- **Estímulo:** Dimensiones de un prisma rectangular y un valor de capacidad objetivo.
+- **Qué evalúa:** Cálculo de volumen ($V = l \cdot w \cdot h$) y proporcionalidad.
+- **Plantilla:** Si se tiene un estanque de {medidas}, el volumen obtenido es {relación} respecto a la reserva de {valor}.
+- **Distractores típicos:** Confundir "el doble" con "la mitad"; error decimal en la multiplicación.
+
+**P36. Análisis de tendencias y series**
+- **Estímulo:** Tabla con datos mensuales de dos categorías.
+- **Qué evalúa:** Predicción de comportamiento basado en patrones observados (secuencias).
+- **Plantilla:** Si la tendencia se mantiene, es correcto afirmar que en el mes {futuro}...
+- **Distractores típicos:** Basarse solo en el último mes; no notar que una categoría crece más rápido que la otra.
+
+**P37. Muestreo proporcional**
+- **Estímulo:** Tabla de frecuencias de diferentes tipos de errores.
+- **Qué evalúa:** Selección de una muestra representativa (estratificada).
+- **Plantilla:** Para investigar a {n} estudiantes, ¿qué muestra se debe tomar para que represente los errores proporcionalmente?
+- **Distractores típicos:** Tomar cantidades iguales para todos los grupos (muestreo no proporcional); usar los totales de la tabla original en lugar de la muestra.
+
+**P38. Interpretación de gráficas cinemáticas (Velocidad vs Tiempo)**
+- **Estímulo:** Descripción textual de un movimiento (aceleración constante, velocidad constante, frenado).
+- **Qué evalúa:** Modelación de situaciones mediante gráficas de funciones.
+- **Plantilla:** ¿Qué gráfica representa la velocidad en función del tiempo según la descripción {texto}?
+- **Distractores típicos:** Gráficas con curvas donde deben ser rectas; no representar los tiempos de espera (líneas horizontales).
+
+**P41-43. Análisis comparativo de gráficos de líneas**
+- **Estímulo:** Gráfico con dos series de datos (Atleta M vs Atleta N) a lo largo del tiempo.
+- **Qué evalúa:** Lectura de puntos de intersección, máximos, mínimos y variaciones.
+- **Plantilla:** ¿En qué mes hubo mayor diferencia? / ¿Cuál afirmación NO es correcta?
+- **Distractores típicos:** Confundir las líneas de los sujetos; leer el eje Y de forma imprecisa.
+
+**P44. Operaciones con potencias (Notación informática)**
+- **Estímulo:** Definición de unidades en potencias de 2 ($2^{10}, 2^{30}$).
+- **Qué evalúa:** Leyes de los exponentes (producto de potencias de igual base).
+- **Plantilla:** El tamaño de un {Z} es el producto de {X} por {Y}. ¿Cuál es el tamaño total?
+- **Distractores típicos:** Multiplicar los exponentes en lugar de sumarlos ($2^{300}$); sumar las bases.
+
+**P46. Dominio de funciones racionales**
+- **Estímulo:** Gráfica de una función con asíntotas.
+- **Qué evalúa:** Identificación de restricciones en el dominio a partir de la gráfica o la ecuación.
+- **Plantilla:** Con relación a la gráfica, se puede determinar que su dominio es...
+- **Distractores típicos:** Confundir el dominio (eje X) con el rango (eje Y); incluir el punto de la asíntota en el dominio.
+
+**P47. Ecuación de la circunferencia**
+- **Estímulo:** Imagen de un objeto circular sobre un plano cartesiano.
+- **Qué evalúa:** Construcción de la ecuación estándar $(x-h)^2 + (y-k)^2 = r^2$.
+- **Plantilla:** ¿Cuál es la ecuación que describe la circunferencia con centro en (h, k) y radio r?
+- **Distractores típicos:** Invertir los signos del centro; no elevar el radio al cuadrado.
+
+# Simulacro Matemáticas – Grado 11 Cuadernillo 1 – 2023
+---
+
+## P1. Conteo lógico con restricciones
+**Estímulo:** Conjunto de casas/personas con una condición extrema (máximo, mínimo, todos distintos).  
+**Qué evalúa:** Razonamiento lógico, uso implícito de progresiones y suma de enteros consecutivos.  
+**Plantilla:**  
+> En un conjunto de {n} elementos, cada uno con una cantidad distinta de {atributo}, sabiendo que uno tiene {valor extremo}, ¿cuál es el total?  
+**Distractores típicos:**  
+- Asumir valores repetidos  
+- No considerar que todos son distintos  
+- Tomar solo el valor máximo multiplicado por n  
+
+---
+
+## P2. Transformaciones geométricas en el plano cartesiano
+**Estímulo:** Figuras en el plano que se rotan respecto al origen.  
+**Qué evalúa:** Comprensión de rotaciones (90°) y lectura de coordenadas.  
+**Plantilla:**  
+> Dada una figura en el plano, ¿qué estudiantes aplicaron correctamente la rotación de {ángulo} respecto al {punto}?  
+**Distractores típicos:**  
+- Rotar en sentido contrario  
+- Trasladar en vez de rotar  
+- Rotar respecto a otro punto  
+
+---
+
+## P3. Relaciones y tablas de doble entrada
+**Estímulo:** Tabla de relaciones de compra y venta entre países.  
+**Qué evalúa:** Interpretación de tablas, relaciones binarias, lectura inversa de información.  
+**Plantilla:**  
+> A partir de la tabla de relaciones, ¿cuál describe correctamente la situación del elemento {X}?  
+**Distractores típicos:**  
+- Confundir compra con venta  
+- Leer filas como columnas  
+- Omitir relaciones indirectas  
+
+---
+
+## P4. Combinatoria básica (conteo de combinaciones)
+**Estímulo:** Selección aleatoria de grupos con número conocido de combinaciones.  
+**Qué evalúa:** Uso de combinaciones sin repetición.  
+**Plantilla:**  
+> Si se pueden formar {k} combinaciones de {r} elementos, ¿cuántos elementos hay en total?  
+**Distractores típicos:**  
+- Usar permutaciones  
+- Sumar en vez de combinar  
+- Confundir combinaciones con arreglos  
+
+---
+
+## P5. Probabilidad y equiprobabilidad
+**Estímulo:** Bolsa con objetos de distintos tipos.  
+**Qué evalúa:** Comprensión de probabilidad clásica y comparación de frecuencias.  
+**Plantilla:**  
+> En una bolsa con {cantidades}, ¿es correcta la afirmación sobre la probabilidad de cada evento?  
+**Distractores típicos:**  
+- Suponer igualdad sin contar casos  
+- Ignorar el total de elementos  
+
+---
+
+## P6. Ángulos y relaciones geométricas
+**Estímulo:** Objeto inclinado respecto a la vertical.  
+**Qué evalúa:** Uso de ángulos complementarios y rectos.  
+**Plantilla:**  
+> Si un ángulo mide {x}° respecto a la vertical, ¿cuánto mide el ángulo restante?  
+**Distractores típicos:**  
+- Sumar en lugar de restar a 90°  
+- Asumir ángulos iguales  
+
+---
+
+## P7. Patrones geométricos y crecimiento
+**Estímulo:** Figuras sucesivas con baldosas de colores.  
+**Qué evalúa:** Identificación de patrones de crecimiento y relaciones numéricas.  
+**Plantilla:**  
+> Observando las figuras, ¿qué afirmación describe correctamente el comportamiento del número de {elemento}?  
+**Distractores típicos:**  
+- Confundir crecimiento absoluto con proporcional  
+- Generalizar a partir de una sola figura  
+
+---
+
+## P8. Funciones definidas por tramos
+**Estímulo:** Tabla que asigna costos según intervalos de edad.  
+**Qué evalúa:** Interpretación de funciones por tramos y su representación gráfica.  
+**Plantilla:**  
+> ¿Cuál gráfica representa correctamente la función definida por intervalos?  
+**Distractores típicos:**  
+- Unir puntos con líneas inclinadas  
+- No respetar intervalos abiertos/cerrados  
+
+---
+
+## P9. Lectura de gráficos estadísticos
+**Estímulo:** Gráfica circular con porcentajes.  
+**Qué evalúa:** Conversión de porcentajes a cantidades absolutas.  
+**Plantilla:**  
+> Según la gráfica, ¿cuál afirmación es verdadera respecto al número de individuos?  
+**Distractores típicos:**  
+- Leer porcentajes como cantidades  
+- Sumar categorías incorrectas  
+
+---
+
+## P10. Diagramas de árbol y experimentos compuestos
+**Estímulo:** Selección sucesiva de canciones desde varios CD.  
+**Qué evalúa:** Construcción de diagramas de árbol y espacio muestral.  
+**Plantilla:**  
+> ¿Qué diagrama representa correctamente la selección sucesiva de {eventos}?  
+**Distractores típicos:**  
+- No mantener el orden de eventos  
+- Repetir ramas incorrectamente  
+
+---
+
+## P11. Modelación con funciones trigonométricas
+**Estímulo:** Gráfica periódica de temperatura vs tiempo.  
+**Qué evalúa:** Identificación de amplitud, período y desplazamiento vertical.  
+**Plantilla:**  
+> ¿Cuál expresión trigonométrica modela el comportamiento observado?  
+**Distractores típicos:**  
+- Confundir seno y coseno  
+- Error en amplitud o desplazamiento  
+
+---
+
+## P12. Razón, velocidad y verificación de afirmaciones
+**Estímulo:** Velocidad máxima y tiempo de recorrido.  
+**Qué evalúa:** Comprensión de razón velocidad–tiempo–distancia.  
+**Plantilla:**  
+> Dada una velocidad constante, ¿es correcta la afirmación sobre la distancia recorrida?  
+**Distractores típicos:**  
+- Dividir cuando se debe multiplicar  
+- Interpretar mal las unidades  
+
+---
+
+## P13. Áreas de figuras compuestas
+**Estímulo:** Figura formada por cuadrados y triángulos.  
+**Qué evalúa:** Cálculo de áreas y suma de regiones.  
+**Plantilla:**  
+> Conociendo el área de las partes, ¿cuál es el área total de la figura?  
+**Distractores típicos:**  
+- Sumar longitudes en lugar de áreas  
+- Omitir una región  
+
+---
+
+## P14. Evaluación de funciones a partir de una expresión
+**Estímulo:** Expresión algebraica que modela temperatura.  
+**Qué evalúa:** Sustitución y construcción de tablas de valores.  
+**Plantilla:**  
+> ¿Qué tabla corresponde a la función dada?  
+**Distractores típicos:**  
+- No respetar el orden de operaciones  
+- Error al sustituir valores  
+
+---
+
+## P15. Dominio de funciones radicales
+**Estímulo:** Función con raíz cuadrada.  
+**Qué evalúa:** Determinación del dominio real.  
+**Plantilla:**  
+> ¿Para qué valores de x la función está definida?  
+**Distractores típicos:**  
+- Incluir valores negativos bajo la raíz  
+- Confundir dominio con recorrido  
+
+---
+
+## P16. Probabilidad en experimentos aleatorios simples
+**Estímulo:** Lanzamiento de un dado dos veces.  
+**Qué evalúa:** Espacio muestral y eventos dependientes.  
+**Plantilla:**  
+> ¿Cuál es la probabilidad de que ocurra el evento descrito?  
+**Distractores típicos:**  
+- Contar casos favorables incorrectamente  
+- No considerar todos los posibles resultados  
+
+---
+
+## P17. Proporcionalidad directa e inversa
+**Estímulo:** Gráfica de ventas mensuales.  
+**Qué evalúa:** Reconocimiento de relaciones proporcionales a partir de gráficos.  
+**Plantilla:**  
+> Según la gráfica, ¿qué tipo de proporcionalidad se observa?  
+**Distractores típicos:**  
+- Asumir proporcionalidad solo por crecimiento  
+- Confundir directa con inversa  
+
+---
+
+## P18. Desplazamientos en la recta numérica
+**Estímulo:** Movimiento con direcciones opuestas.  
+**Qué evalúa:** Suma algebraica de desplazamientos.  
+**Plantilla:**  
+> ¿Qué procedimiento permite hallar la posición final?  
+**Distractores típicos:**  
+- Ignorar el sentido del desplazamiento  
+- Sumar todas las distancias sin signo  
+
+---
+
+## P19. Paralelismo y perpendicularidad
+**Estímulo:** Figura geométrica con lados etiquetados.  
+**Qué evalúa:** Uso de propiedades de paralelas y perpendiculares.  
+**Plantilla:**  
+> ¿Por qué dos lados son paralelos?  
+**Distractores típicos:**  
+- Justificaciones basadas solo en medidas  
+- Afirmaciones generales sin condición  
+
+---
+
+## P20. Propiedades de la elipse y razonamiento conceptual
+**Estímulo:** Definición de semiejes mayor y menor.  
+**Qué evalúa:** Comprensión conceptual y validación de afirmaciones.  
+**Plantilla:**  
+> ¿Es verdadera la afirmación sobre la figura geométrica? Justifique.  
+**Distractores típicos:**  
+- Confundir definición con consecuencia  
+- Aceptar la afirmación sin análisis lógico  
+
+---
+
+# Simulacro Matemáticas – Práctica Saber 11° - 2021
+
+---
+
+## P1. Validación de procedimientos paso a paso
+**Estímulo:** Situación contextual con un procedimiento descrito en pasos.  
+**Qué evalúa:** Razonamiento secuencial, detección de errores conceptuales o de conteo.  
+**Plantilla:**  
+> Un estudiante ejecuta los pasos I, II, III para resolver {situación}. ¿En cuáles pasos hay error?  
+**Distractores típicos:**  
+- Aceptar el resultado final sin revisar los pasos  
+- Error en conteo de tramos/eventos  
+- Omisión de tiempos o costos fijos  
+
+---
+
+## P2. Porcentajes y cambio de unidad monetaria
+**Estímulo:** Inversión en moneda extranjera con tasa de cambio constante.  
+**Qué evalúa:** Comprensión de porcentaje como razón invariante bajo cambio de unidad.  
+**Plantilla:**  
+> Si una cantidad aumenta en {p%} y la tasa de cambio es constante, ¿qué ocurre con el aumento en otra moneda?  
+**Distractores típicos:**  
+- Confundir porcentaje con valor absoluto  
+- Creer que el incremento depende del valor inicial  
+
+---
+
+## P3. Optimización con restricciones (costos y capacidad)
+**Estímulo:** Elección de franjas/grupos con capacidad máxima y costos distintos.  
+**Qué evalúa:** Análisis de decisiones óptimas bajo restricciones.  
+**Plantilla:**  
+> ¿La elección de {opciones} garantiza {condición óptima}?  
+**Distractores típicos:**  
+- Fijarse solo en el precio mínimo unitario  
+- No verificar todas las combinaciones posibles  
+
+---
+
+## P4. Inferencia a partir de costos totales
+**Estímulo:** Pago total por un servicio con tarifa por grupo o módulo.  
+**Qué evalúa:** Proporcionalidad y rangos posibles.  
+**Plantilla:**  
+> Si el costo total es {valor}, ¿entre qué rango se encuentra la cantidad de personas?  
+**Distractores típicos:**  
+- Dividir por una tarifa incorrecta  
+- No considerar límites máximos por grupo  
+
+---
+
+## P5. Reparto equitativo de costos
+**Estímulo:** Costo total dividido entre participantes.  
+**Qué evalúa:** División proporcional y lectura de tablas.  
+**Plantilla:**  
+> Si {n} personas pagan el mismo valor por un servicio de costo {C}, ¿cuánto paga cada una?  
+**Distractores típicos:**  
+- Usar el costo de otro módulo  
+- Error en la división  
+
+---
+
+## P6. Identificación de módulo a partir del costo
+**Estímulo:** Tabla de módulos con precios distintos.  
+**Qué evalúa:** Asociación inversa (del resultado al origen).  
+**Plantilla:**  
+> Dado un pago total de {C} por {n} personas, ¿a qué módulo corresponde?  
+**Distractores típicos:**  
+- Elegir el módulo por duración y no por costo  
+- No dividir antes de comparar  
+
+---
+
+## P7. Razón perímetro–área en figuras semejantes
+**Estímulo:** Figuras cuadradas con perímetros en razón conocida.  
+**Qué evalúa:** Comprensión de semejanza y escalamiento cuadrático.  
+**Plantilla:**  
+> Si los perímetros están en razón {a:b}, ¿qué ocurre con las áreas?  
+**Distractores típicos:**  
+- Suponer la misma razón para áreas  
+- Confundir longitud con superficie  
+
+---
+
+## P8. Modelación lineal (variación constante)
+**Estímulo:** Relación entre altitud y temperatura.  
+**Qué evalúa:** Construcción de expresiones lineales.  
+**Plantilla:**  
+> Si al aumentar {Δx} ocurre un cambio de {Δy}, ¿qué expresión modela la situación?  
+**Distractores típicos:**  
+- Error en el signo  
+- Confundir pendiente con intercepto  
+
+---
+
+## P9. Comparación de rentabilidad
+**Estímulo:** Venta de productos con distintos precios y costos por ciudad.  
+**Qué evalúa:** Análisis de ganancias netas.  
+**Plantilla:**  
+> ¿Es más rentable vender {cantidad} en {lugar A} que en {lugar B}? ¿Por qué?  
+**Distractores típicos:**  
+- Comparar solo ingresos  
+- Ignorar costos asociados  
+
+---
+
+## P10. Cálculo de ganancia mediante procedimiento
+**Estímulo:** Procedimiento explícito para hallar ganancia.  
+**Qué evalúa:** Ejecución correcta de operaciones encadenadas.  
+**Plantilla:**  
+> Siguiendo los pasos dados, ¿cuál es la ganancia final?  
+**Distractores típicos:**  
+- Error en multiplicación de toneladas  
+- Omitir costos de transporte o mano de obra  
+
+---
+
+## P11. Uso de división entera y residuo
+**Estímulo:** Bonos por bloques completos de producción.  
+**Qué evalúa:** Uso del residuo para descartar casos incompletos.  
+**Plantilla:**  
+> Si se bonifica cada {k} unidades, ¿qué parte del total se considera para el cálculo?  
+**Distractores típicos:**  
+- Incluir el residuo  
+- Aplicar el porcentaje al total original  
+
+---
+
+## P12. Interpretación de gráficas comparativas
+**Estímulo:** Gráficas de barras con varios costos.  
+**Qué evalúa:** Lectura e interpretación visual de datos.  
+**Plantilla:**  
+> ¿Qué gráfica representa correctamente la relación entre {variables}?  
+**Distractores típicos:**  
+- Confundir categorías  
+- No respetar escalas  
+
+---
+
+## P13. Alcance de la información disponible
+**Estímulo:** Datos incompletos sobre ventas y trabajadores.  
+**Qué evalúa:** Identificación de lo que sí y no se puede concluir.  
+**Plantilla:**  
+> Con la información dada, ¿qué dato es posible determinar?  
+**Distractores típicos:**  
+- Inferir información no proporcionada  
+- Suponer valores promedio  
+
+---
+
+## P14. Cambios porcentuales en áreas
+**Estímulo:** Modificación de dimensiones de un rectángulo.  
+**Qué evalúa:** Relación entre dimensiones y área.  
+**Plantilla:**  
+> Si un lado aumenta en {p%}, ¿qué ocurre con el área?  
+**Distractores típicos:**  
+- Confundir aumento lineal con aumento de área  
+
+---
+
+## P15. Determinación de una parábola
+**Estímulo:** Dos puntos conocidos de una parábola.  
+**Qué evalúa:** Grados de libertad en funciones cuadráticas.  
+**Plantilla:**  
+> Con {datos conocidos}, ¿qué información adicional se necesita para hallar la ecuación?  
+**Distractores típicos:**  
+- Creer que dos puntos son suficientes  
+- Confundir forma de apertura con ecuación completa  
+
+---
+
+## P16. Promedios y distribución
+**Estímulo:** Promedio de estaturas y asignación a grupos.  
+**Qué evalúa:** Limitaciones del promedio como estadístico.  
+**Plantilla:**  
+> ¿Por qué una conclusión basada solo en el promedio es errónea?  
+**Distractores típicos:**  
+- Suponer distribución uniforme  
+- Ignorar la variabilidad  
+
+---
+
+## P17. Resolución algebraica indirecta
+**Estímulo:** Productos entre pares de variables.  
+**Qué evalúa:** Manipulación algebraica y despeje.  
+**Plantilla:**  
+> Dados R = XZ, S = XW y T = ZW, ¿cómo hallar X?  
+**Distractores típicos:**  
+- Sumar en vez de multiplicar  
+- No usar todas las relaciones  
+
+---
+
+## P18. Trigonometría en contexto geométrico
+**Estímulo:** Distancias y ángulos entre faros y un barco.  
+**Qué evalúa:** Uso de razones trigonométricas.  
+**Plantilla:**  
+> ¿Qué expresión permite calcular {distancia} usando senos/cosenos?  
+**Distractores típicos:**  
+- Usar la razón trigonométrica incorrecta  
+- Elegir ángulos equivocados  
+
+---
+
+## P19. Modelación con ecuaciones lineales
+**Estímulo:** Juego con reglas de puntuación distintas.  
+**Qué evalúa:** Traducción de una situación verbal a ecuaciones.  
+**Plantilla:**  
+> ¿Qué ecuación representa el momento en que {condición}?  
+**Distractores típicos:**  
+- Igualar cantidades incorrectas  
+- No considerar puntos iniciales  
+
+---
+
+## P20. Ajuste funcional a datos
+**Estímulo:** Tabla de gasto vs ganancia.  
+**Qué evalúa:** Identificación de funciones lineales.  
+**Plantilla:**  
+> ¿Cuál función modela los datos de la tabla?  
+**Distractores típicos:**  
+- Confundir pendiente con intercepto  
+- Ajustar sin verificar todos los puntos  
+
+---
+
+## P21. Modelación con sistemas de ecuaciones
+**Estímulo:** Venta de artículos con relación entre cantidades.  
+**Qué evalúa:** Coherencia entre ecuaciones y contexto.  
+**Plantilla:**  
+> ¿Las ecuaciones representan correctamente la situación descrita?  
+**Distractores típicos:**  
+- Invertir la relación entre variables  
+- Validar solo porque el sistema tiene solución  
+
+---
+
+## P22. Uso de trigonometría para medir alturas
+**Estímulo:** Corte paralelo en un triángulo.  
+**Qué evalúa:** Aplicación de seno y proporcionalidad.  
+**Plantilla:**  
+> Usando sen({ángulo}), ¿a qué distancia se realiza el corte?  
+**Distractores típicos:**  
+- No dividir la altura correctamente  
+- Usar un valor trigonométrico incorrecto  
+
+---
+
+## P23. Relaciones en triángulos especiales
+**Estímulo:** Cartabón con proporciones conocidas.  
+**Qué evalúa:** Reconocimiento de razones trigonométricas notables.  
+**Plantilla:**  
+> Si la hipotenusa es {relación} del cateto menor, ¿cuánto mide este?  
+**Distractores típicos:**  
+- Confundir cateto mayor y menor  
+- Error con raíces  
+
+---
+
+## P24. Transformaciones estadísticas
+**Estímulo:** Suma constante a todos los datos de un conjunto.  
+**Qué evalúa:** Efecto sobre promedio y desviación estándar.  
+**Plantilla:**  
+> Si a cada dato se le suma {k}, ¿qué ocurre con el promedio y la desviación?  
+**Distractores típicos:**  
+- Creer que la desviación cambia  
+- Mantener el promedio igual  
+
+---
+
+## P25. Conteo sin repetición
+**Estímulo:** Asignación de extensiones con dígitos distintos.  
+**Qué evalúa:** Permutaciones.  
+**Plantilla:**  
+> ¿Cuántas combinaciones distintas se pueden formar con {n} dígitos sin repetir?  
+**Distractores típicos:**  
+- Usar combinaciones en vez de permutaciones  
+
+---
+
+## P26. Lectura de gráficos estadísticos
+**Estímulo:** Gráfico circular de parque automotor.  
+**Qué evalúa:** Comparación de proporciones.  
+**Plantilla:**  
+> Según el gráfico, ¿qué afirmación es verdadera?  
+**Distractores típicos:**  
+- Confundir mayoría con mitad  
+- Leer sectores incorrectamente  
+
+---
+
+## P27. Densidad de los racionales
+**Estímulo:** Construcción de racionales cercanos a un entero.  
+**Qué evalúa:** Comprensión de infinitud de los racionales.  
+**Plantilla:**  
+> ¿Cuántos racionales cumplen la condición dada?  
+**Distractores típicos:**  
+- Restringir el conjunto a pocos casos  
+- Confundir infinito con muy grande  
+
+---
+
+## P28. Escalas y razones
+**Estímulo:** Maqueta a escala de una cancha.  
+**Qué evalúa:** Conversión de unidades y escalamiento.  
+**Plantilla:**  
+> Si la escala es {1:n}, ¿cuál es la nueva medida?  
+**Distractores típicos:**  
+- Multiplicar en lugar de dividir  
+- Error de unidades  
+
+---
+
+## P29. Probabilidad compuesta
+**Estímulo:** Ganar varios juegos independientes.  
+**Qué evalúa:** Uso de multiplicación de probabilidades.  
+**Plantilla:**  
+> ¿Qué procedimientos permiten hallar la probabilidad de ganar todos los eventos?  
+**Distractores típicos:**  
+- Sumar probabilidades  
+- Restar casos incorrectos al complemento  
+
+---
+
+## P30. Probabilidad nula
+**Estímulo:** Cartas con dos características simultáneas.  
+**Qué evalúa:** Identificación de eventos imposibles.  
+**Plantilla:**  
+> ¿Qué combinación de características tiene probabilidad cero?  
+**Distractores típicos:**  
+- Confundir poco probable con imposible  
+
+---
+
+## P31. Geometría en polígonos regulares
+**Estímulo:** Octágono inscrito en una circunferencia.  
+**Qué evalúa:** Relación entre ángulos centrales, lados y radios.  
+**Plantilla:**  
+> ¿Qué elemento se puede calcular con la expresión dada?  
+**Distractores típicos:**  
+- Confundir ángulo central con interior  
+- Elegir un segmento incorrecto  
+
+---
+
+## P32. Simetría en el plano cartesiano
+**Estímulo:** Trapecio isósceles simétrico respecto al eje y.  
+**Qué evalúa:** Uso de simetría para hallar coordenadas.  
+**Plantilla:**  
+> Dadas dos coordenadas, ¿cuáles son las de los otros vértices?  
+**Distractores típicos:**  
+- Cambiar signos incorrectamente  
+
+---
+
+## P33. Tablas de doble entrada
+**Estímulo:** Distribución por género y medio de transporte.  
+**Qué evalúa:** Consistencia entre porcentajes y frecuencias.  
+**Plantilla:**  
+> ¿Qué tabla representa correctamente la información dada?  
+**Distractores típicos:**  
+- No respetar totales  
+- Confundir porcentajes con cantidades  
+
+---
+
+## P34. Crecimiento exponencial
+**Estímulo:** Intensidad del sonido en decibelios.  
+**Qué evalúa:** Comprensión de crecimiento multiplicativo.  
+**Plantilla:**  
+> ¿Por qué aumentar {k} dB no equivale a multiplicar por {k}?  
+**Distractores típicos:**  
+- Interpretar crecimiento como lineal  
+
+---
+
+## P35. Porcentajes sucesivos
+**Estímulo:** Descuentos consecutivos.  
+**Qué evalúa:** Aplicación correcta de porcentajes encadenados.  
+**Plantilla:**  
+> ¿En qué paso hay un error al aplicar descuentos sucesivos?  
+**Distractores típicos:**  
+- Sumar descuentos  
+- Aplicar porcentajes sobre el valor original  
+
+---
+
+## P36. Condiciones geométricas
+**Estímulo:** Construcción de un triángulo dentro de una circunferencia.  
+**Qué evalúa:** Reconocimiento de radios y propiedades de triángulos.  
+**Plantilla:**  
+> ¿Qué condición garantiza que el triángulo sea isósceles?  
+**Distractores típicos:**  
+- Elegir condiciones angulares irrelevantes  
+
+---
+
+## P37. Posibilidades geométricas
+**Estímulo:** Unión de puntos en una circunferencia.  
+**Qué evalúa:** Identificación de figuras posibles e imposibles.  
+**Plantilla:**  
+> ¿Cuál figura NO puede resultar de unir los puntos dados?  
+**Distractores típicos:**  
+- No distinguir entre segmentos y figuras  
+
+---
+
+## P38. Diagramas de Venn y conteo
+**Estímulo:** Elección de productos por clientes.  
+**Qué evalúa:** Interpretación de intersecciones y uniones.  
+**Plantilla:**  
+> ¿Qué dato se puede calcular con la información de la tabla?  
+**Distractores típicos:**  
+- Confundir “y” con “o”  
+
+---
+
+## P39. Conteo con restricciones
+**Estímulo:** Contraseñas con reglas distintas.  
+**Qué evalúa:** Comparación de tamaños de espacios muestrales.  
+**Plantilla:**  
+> Ordene las restricciones de menor a mayor número de contraseñas posibles.  
+**Distractores típicos:**  
+- No considerar mayúsculas/minúsculas  
+- Ignorar repetición o no repetición  
+
+---
+
+## P40. Requisitos imposibles
+**Estímulo:** Condiciones geométricas múltiples.  
+**Qué evalúa:** Coherencia lógica entre requisitos.  
+**Plantilla:**  
+> ¿Cuál de los requisitos no puede cumplirse simultáneamente?  
+**Distractores típicos:**  
+- Elegir un requisito verdadero pero trivial  
+
+---
+
+# Simulacro Matemáticas – **NERDOS 2020**
+---
+
+## P1. Lectura de intervalos en gráficos cartesianos
+**Estímulo:** Gráfico de regiones que representan tecnologías/rangos posibles (rendimiento vs costo).  
+**Qué evalúa:** Interpretación de intervalos comunes y superposición de conjuntos en el plano.  
+**Plantilla:**  
+> Según el gráfico, ¿cuál es el intervalo de {variable} que puede lograrse con {conjunto A} y {conjunto B}?  
+**Distractores típicos:**  
+- Elegir intervalos que no están en la intersección  
+- Tomar extremos no incluidos  
+- Leer solo un conjunto y no ambos  
+
+---
+
+## P2. Inferencia estadística a partir de diagramas
+**Estímulo:** Diagrama de sectores o barras con rangos poblacionales.  
+**Qué evalúa:** Inferencia válida vs. inferencia imposible con datos agrupados.  
+**Plantilla:**  
+> De acuerdo con el diagrama, ¿es correcto afirmar que {afirmación}?  
+**Distractores típicos:**  
+- Asumir valores exactos dentro de rangos  
+- Confundir “mayoría” con “mayor sector”  
+- Ignorar rangos abiertos  
+
+---
+
+## P3. Lectura puntual de gráficas de barras
+**Estímulo:** Gráfica de producción diaria por categorías.  
+**Qué evalúa:** Extracción de información puntual (lectura directa).  
+**Plantilla:**  
+> ¿Qué tabla representa correctamente los valores de {categoría} en {día1} y {día2}?  
+**Distractores típicos:**  
+- Confundir categorías  
+- Leer el eje incorrecto  
+- Sumar valores en lugar de leerlos  
+
+---
+
+## P4. Inferencia global en distribuciones
+**Estímulo:** Gráfica de distribución por niveles (insuficiente, mínimo, satisfactorio…).  
+**Qué evalúa:** Inferencia global y comparación de frecuencias relativas.  
+**Plantilla:**  
+> De la gráfica se puede inferir que:  
+**Distractores típicos:**  
+- Confundir probabilidad con frecuencia  
+- Interpretar extremos como mayorías  
+- Afirmar datos no representados  
+
+---
+
+## P5. Identificación de afirmaciones falsas
+**Estímulo:** Mismo gráfico estadístico con varias afirmaciones.  
+**Qué evalúa:** Argumentación y validación de conclusiones.  
+**Plantilla:**  
+> De la gráfica es correcto afirmar todo lo siguiente **EXCEPTO**:  
+**Distractores típicos:**  
+- Elegir afirmaciones verdaderas pero irrelevantes  
+- No verificar contra la escala  
+- Confundir porcentaje con cantidad absoluta  
+
+---
+
+## P6. Conteo combinatorio con restricciones
+**Estímulo:** Selección de estudiantes de dos grupos distintos.  
+**Qué evalúa:** Combinaciones con restricciones por subconjuntos.  
+**Plantilla:**  
+> ¿Cuántos grupos distintos pueden formarse si se eligen {a} de {A} y {b} de {B}?  
+**Distractores típicos:**  
+- Usar permutaciones  
+- Sumar combinaciones parciales  
+- Ignorar la restricción de grupo  
+
+---
+
+## P7. Probabilidad compuesta (eventos independientes)
+**Estímulo:** Juegos sucesivos con probabilidades conocidas.  
+**Qué evalúa:** Regla del producto y complemento.  
+**Plantilla:**  
+> ¿Qué procedimientos permiten hallar la probabilidad de ganar ambos eventos?  
+**Distractores típicos:**  
+- Sumar probabilidades  
+- Restar probabilidades incorrectas  
+- Confundir independencia con exclusión  
+
+---
+
+## P8. Crecimiento exponencial y potencias
+**Estímulo:** Relación entre decibeles e intensidad sonora.  
+**Qué evalúa:** Interpretación de potencias y razones exponenciales.  
+**Plantilla:**  
+> Si se cumple {expresión}, ¿cuántas veces es {I} respecto a {I₀}?  
+**Distractores típicos:**  
+- Interpretar como crecimiento lineal  
+- Confundir exponente con coeficiente  
+
+---
+
+## P9. Alcance de la información disponible
+**Estímulo:** Datos parciales sobre ventas, producción o trabajadores.  
+**Qué evalúa:** Identificación de información deducible vs. no deducible.  
+**Plantilla:**  
+> Con la información dada es posible conocer:  
+**Distractores típicos:**  
+- Inferir ganancias sin costos  
+- Asumir datos no suministrados  
+
+---
+
+## P10. Cambio porcentual en áreas
+**Estímulo:** Modificación de dimensiones de una figura.  
+**Qué evalúa:** Relación entre longitud y área.  
+**Plantilla:**  
+> Si un lado aumenta en {p%}, el área:  
+**Distractores típicos:**  
+- Suponer el mismo porcentaje  
+- Confundir aumento absoluto con relativo  
+
+---
+
+## P11. Determinación de una parábola
+**Estímulo:** Gráfica de una trayectoria parabólica con dos puntos conocidos.  
+**Qué evalúa:** Grados de libertad en funciones cuadráticas.  
+**Plantilla:**  
+> ¿Qué información adicional se necesita para hallar la ecuación?  
+**Distractores típicos:**  
+- Creer que dos puntos determinan una parábola  
+- Confundir orientación con ecuación  
+
+---
+
+## P12. Promedio como medida insuficiente
+**Estímulo:** Promedio de estaturas para asignación de grupos.  
+**Qué evalúa:** Comprensión del promedio y sus limitaciones.  
+**Plantilla:**  
+> ¿Por qué es errónea la afirmación basada solo en el promedio?  
+**Distractores típicos:**  
+- Suponer distribución uniforme  
+- Ignorar variabilidad interna  
+
+---
+
+## P13. Razones trigonométricas en triángulos rectángulos
+**Estímulo:** Escalera apoyada en un muro.  
+**Qué evalúa:** Identificación correcta de seno, coseno y tangente.  
+**Plantilla:**  
+> ¿Cuál es el valor del {razón trigonométrica} del ángulo?  
+**Distractores típicos:**  
+- Intercambiar cateto opuesto y adyacente  
+- Usar hipotenusa incorrecta  
+
+---
+
+## P14. Probabilidad nula
+**Estímulo:** Cartas con múltiples características.  
+**Qué evalúa:** Identificación de eventos imposibles.  
+**Plantilla:**  
+> ¿Qué combinación de características tiene probabilidad cero?  
+**Distractores típicos:**  
+- Confundir raro con imposible  
+- Ignorar definición del conjunto  
+
+---
+
+## P15. Geometría en polígonos regulares
+**Estímulo:** Octágono regular inscrito en una circunferencia.  
+**Qué evalúa:** Relación entre ángulos centrales, lados y radio.  
+**Plantilla:**  
+> Con la expresión {expresión}, se puede calcular:  
+**Distractores típicos:**  
+- Confundir ángulo central con interior  
+- Elegir un segmento incorrecto  
+
+---
+
+## P16. Simetría en el plano cartesiano
+**Estímulo:** Trapecio isósceles simétrico respecto al eje y.  
+**Qué evalúa:** Simetría axial y coordenadas reflejadas.  
+**Plantilla:**  
+> Si dos vértices son {coordenadas}, ¿cuáles son los otros dos?  
+**Distractores típicos:**  
+- Cambiar signos incorrectos  
+- Reflejar respecto a otro eje  
+
+---
+
+## P17. Relaciones algebraicas indirectas
+**Estímulo:** Productos entre pares de variables.  
+**Qué evalúa:** Manipulación algebraica y despeje lógico.  
+**Plantilla:**  
+> Dadas las relaciones {R}, {S} y {T}, ¿cómo hallar {variable}?  
+**Distractores típicos:**  
+- Sumar relaciones en lugar de dividir  
+- No usar todas las ecuaciones  
+
+---
+
+## P18. Conteo con restricciones
+**Estímulo:** Contraseñas o códigos con condiciones específicas.  
+**Qué evalúa:** Comparación de espacios muestrales.  
+**Plantilla:**  
+> ¿Cuál condición genera mayor/menor número de combinaciones?  
+**Distractores típicos:**  
+- Ignorar restricciones  
+- Confundir orden con selección  
+
+---
+
+## P19. Lectura de recta numérica y desplazamientos
+**Estímulo:** Movimiento con direcciones opuestas.  
+**Qué evalúa:** Suma algebraica y sentido del desplazamiento.  
+**Plantilla:**  
+> ¿Qué procedimiento permite hallar la posición final?  
+**Distractores típicos:**  
+- Sumar distancias sin signo  
+- Cambiar sentido del eje  
+
+---
+
+## P20. Justificación geométrica
+**Estímulo:** Cuadrilátero con ángulos y paralelismo.  
+**Qué evalúa:** Argumentación geométrica basada en propiedades.  
+**Plantilla:**  
+> ¿Por qué los lados {A} y {B} son paralelos?  
+**Distractores típicos:**  
+- Justificar por medidas irrelevantes  
+- Usar definiciones incompletas  
+
+---
+
+## P21. Propiedades de la elipse
+**Estímulo:** Definición de semieje mayor y menor.  
+**Qué evalúa:** Razonamiento conceptual en geometría analítica.  
+**Plantilla:**  
+> ¿Es verdadera la afirmación sobre la elipse?  
+**Distractores típicos:**  
+- Confundir definición con consecuencia  
+- Generalizar sin justificar  
+
+---
+
+# Simulacro – **Matemáticas SABER 11 (Sesión 1 / F13 / Nerdos / Práctica)**  
+
+---
+
+## P1. Crecimiento exponencial y razones multiplicativas
+**Estímulo:** Expresión del tipo \( U_n = a(1+r)^{n-1} \).  
+**Qué evalúa:** Interpretación de crecimiento exponencial y significado del factor multiplicativo.  
+**Plantilla:**  
+> Dada la expresión \(U_n = a(1+r)^{n-1}\), ¿cuál afirmación describe correctamente el comportamiento de la variable?  
+**Distractores típicos:**  
+- Interpretar el crecimiento como suma constante  
+- Confundir porcentaje con valor absoluto  
+- Usar \(1+r\) como incremento y no como razón  
+
+---
+
+## P2. Razones y proporciones en gráficos circulares
+**Estímulo:** Gráfica de sectores con porcentajes de componentes.  
+**Qué evalúa:** Comparación de razones entre partes de un todo.  
+**Plantilla:**  
+> A partir de la gráfica, se puede afirmar que existe una relación de {a}:{b} entre {componente 1} y {componente 2}.  
+**Distractores típicos:**  
+- Comparar porcentajes no relacionados  
+- Confundir parte–todo con parte–parte  
+
+---
+
+## P3. Validación de procedimientos secuenciales
+**Estímulo:** Procedimiento descrito paso a paso para resolver un problema.  
+**Qué evalúa:** Razonamiento lógico y verificación de pasos.  
+**Plantilla:**  
+> Un estudiante sigue los pasos I, II y III para resolver la situación. ¿En cuál(es) paso(s) hay error?  
+**Distractores típicos:**  
+- Aceptar el resultado final sin revisar el proceso  
+- Error en conteo de tramos o eventos  
+- Omisión de tiempos o unidades  
+
+---
+
+## P4. Porcentaje invariante bajo cambio de unidad
+**Estímulo:** Conversión monetaria con tasa de cambio constante.  
+**Qué evalúa:** Comprensión del porcentaje como razón independiente de la unidad.  
+**Plantilla:**  
+> Si una cantidad aumenta en {p%} y la tasa de cambio permanece constante, ¿qué ocurre con el aumento en otra moneda?  
+**Distractores típicos:**  
+- Pensar que el porcentaje depende del valor numérico  
+- Confundir porcentaje con ganancia absoluta  
+
+---
+
+## P5. Reparto equitativo y costos por persona
+**Estímulo:** División de costos totales entre participantes.  
+**Qué evalúa:** Proporcionalidad directa y división.  
+**Plantilla:**  
+> Si {n} personas asumen equitativamente un costo total de {C}, ¿cuánto paga cada una?  
+**Distractores típicos:**  
+- Dividir por un número incorrecto  
+- Usar un costo parcial  
+
+---
+
+## P6. Inferencia posible vs. imposible
+**Estímulo:** Información incompleta sobre ventas, producción o pagos.  
+**Qué evalúa:** Alcance de la información disponible.  
+**Plantilla:**  
+> Con la información dada, es posible conocer:  
+**Distractores típicos:**  
+- Inferir datos no proporcionados  
+- Suponer costos o ganancias inexistentes  
+
+---
+
+## P7. Cambio porcentual en áreas
+**Estímulo:** Modificación de una dimensión de una figura geométrica.  
+**Qué evalúa:** Relación entre longitud y área.  
+**Plantilla:**  
+> Si uno de los lados aumenta en {p%}, el área de la figura:  
+**Distractores típicos:**  
+- Asumir el mismo porcentaje de aumento  
+- Confundir aumento lineal con cuadrático  
+
+---
+
+## P8. Determinación de funciones cuadráticas
+**Estímulo:** Trayectoria parabólica con puntos conocidos.  
+**Qué evalúa:** Grados de libertad en funciones cuadráticas.  
+**Plantilla:**  
+> Para hallar la ecuación \(y=ax^2+bx+c\), ¿qué información adicional se necesita?  
+**Distractores típicos:**  
+- Creer que dos puntos son suficientes  
+- Confundir orientación con ecuación  
+
+---
+
+## P9. Conteo combinatorio con restricciones
+**Estímulo:** Selección de grupos desde subconjuntos distintos.  
+**Qué evalúa:** Combinaciones con restricciones.  
+**Plantilla:**  
+> ¿Cuántos grupos diferentes pueden formarse si se eligen {a} de {A} y {b} de {B}?  
+**Distractores típicos:**  
+- Usar permutaciones  
+- Sumar en lugar de multiplicar combinaciones  
+
+---
+
+## P10. Probabilidad compuesta (eventos independientes)
+**Estímulo:** Juegos sucesivos con probabilidades conocidas.  
+**Qué evalúa:** Regla del producto y complemento.  
+**Plantilla:**  
+> ¿Qué procedimientos permiten calcular la probabilidad de que ocurran todos los eventos?  
+**Distractores típicos:**  
+- Sumar probabilidades  
+- Confundir independencia con exclusión  
+
+---
+
+## P11. Potencias y crecimiento exponencial
+**Estímulo:** Relación del tipo \(10^k = \frac{I}{I_0}\).  
+**Qué evalúa:** Interpretación de potencias de base 10.  
+**Plantilla:**  
+> ¿Cuántas veces es {I} respecto a {I₀}?  
+**Distractores típicos:**  
+- Interpretar como incremento lineal  
+- Confundir exponente con coeficiente  
+
+---
+
+## P12. Probabilidad nula
+**Estímulo:** Selección de objetos con múltiples características.  
+**Qué evalúa:** Identificación de eventos imposibles.  
+**Plantilla:**  
+> ¿Qué combinación de características tiene probabilidad cero?  
+**Distractores típicos:**  
+- Confundir poco probable con imposible  
+
+---
+
+## P13. Razones trigonométricas en triángulos rectángulos
+**Estímulo:** Escalera, muro o triángulo rectángulo contextualizado.  
+**Qué evalúa:** Uso correcto de seno, coseno o tangente.  
+**Plantilla:**  
+> ¿Cuál es el valor del {razón trigonométrica} del ángulo indicado?  
+**Distractores típicos:**  
+- Intercambiar catetos  
+- Usar la hipotenusa incorrecta  
+
+---
+
+## P14. Geometría en polígonos regulares
+**Estímulo:** Polígono regular inscrito en una circunferencia.  
+**Qué evalúa:** Relación entre radio, ángulos y lados.  
+**Plantilla:**  
+> Con la expresión dada se puede calcular:  
+**Distractores típicos:**  
+- Confundir ángulo central con interior  
+- Elegir un segmento incorrecto  
+
+---
+
+## P15. Simetría en el plano cartesiano
+**Estímulo:** Figura simétrica respecto a un eje.  
+**Qué evalúa:** Simetría axial y coordenadas reflejadas.  
+**Plantilla:**  
+> Dadas las coordenadas de dos vértices, ¿cuáles son las de los otros vértices?  
+**Distractores típicos:**  
+- Cambiar signos incorrectos  
+- Reflejar respecto al eje equivocado  
+
+---
+
+## P16. Promedio como medida insuficiente
+**Estímulo:** Comparación de promedios entre grupos.  
+**Qué evalúa:** Limitaciones del promedio estadístico.  
+**Plantilla:**  
+> ¿Por qué la afirmación basada solo en el promedio es incorrecta?  
+**Distractores típicos:**  
+- Suponer distribución uniforme  
+- Ignorar la variabilidad  
+
+---
+
+## P17. Interpretación de gráficos estadísticos
+**Estímulo:** Gráficas de barras o sectores.  
+**Qué evalúa:** Lectura local y global de información.  
+**Plantilla:**  
+> De la gráfica se puede inferir que:  
+**Distractores típicos:**  
+- Leer porcentajes como cantidades  
+- Confundir mayor sector con mayoría absoluta  
+
+---
+
+## P18. Identificación de crecimiento no lineal
+**Estímulo:** Relación entre variables físicas (ángulo–alcance).  
+**Qué evalúa:** Reconocimiento de comportamientos no lineales.  
+**Plantilla:**  
+> El comportamiento de la variable respecto a la otra es:  
+**Distractores típicos:**  
+- Asumir proporcionalidad directa  
+- Confundir dispersión con tendencia  
+
+---
+
+## P19. Sistemas de conteo con números consecutivos
+**Estímulo:** Rifas o asignación de números en intervalos.  
+**Qué evalúa:** Conteo de enteros en rangos.  
+**Plantilla:**  
+> ¿Cuántos números posibles hay entre {a} y {b}, inclusive?  
+**Distractores típicos:**  
+- Excluir extremos  
+- Contar intervalos en lugar de valores  
+
+---
+
+## P20. Razonamiento geométrico argumentativo
+**Estímulo:** Propiedades de figuras (paralelismo, isósceles, radios).  
+**Qué evalúa:** Argumentación matemática.  
+**Plantilla:**  
+> ¿Qué condición garantiza que la figura cumpla la propiedad indicada?  
+**Distractores típicos:**  
+- Justificar con datos irrelevantes  
+- Usar definiciones incompletas  
+
+---
+
+
+# AREA 2: MATEMATICAS (Preguntas 41-70 aprox.)
+
+---
+
+## P41. Geometria - Construccion de cuadrilateros
+- **Estimulo:** Procedimiento de construccion geometrica paso a paso con circunferencia y segmentos.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Comprension de procedimientos constructivos y propiedades de cuadrilateros.
+- **Plantilla:** "Cual de los siguientes cuadrilateros cumple las condiciones de la construccion?"
+- **Distractores tipicos:** Confundir propiedades de paralelogramos; no identificar diagonales perpendiculares; mezclar rombo con trapecio.
+
+## P42. Estadistica - Mediana
+- **Estimulo:** Conjunto de numeros reales ordenados V1<V2<V3<V4 y su mediana.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Comprension de la propiedad definitoria de la mediana.
+- **Plantilla:** "Para el conjunto... se halla la mediana m. Cual de las siguientes caracteristicas tienen los elementos respecto a m?"
+- **Distractores tipicos:** Confundir mediana con media; atribuir propiedades del maximo/minimo; no entender la simetria del numero de elementos.
+
+## P43. Algebra - Algoritmos aritmeticos
+- **Estimulo:** Algoritmo de 4 pasos: escoger numero positivo, raiz cuadrada, multiplicar por 2, elevar al cuadrado.
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Procesos**. Ejecucion y seguimiento de algoritmos.
+- **Plantilla:** "Si un estudiante escogio el numero 9 en el primer paso, cual sera el resultado obtenido al final del algoritmo?"
+- **Distractores tipicos:** Errores en orden de operaciones; calcular (2*sqrt(9))^2 incorrectamente; confundir raiz cuadrada con division.
+
+## P44. Estadistica - Tablas de frecuencia
+- **Estimulo:** Tabla de horas de estudio por dia de la semana.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Calculo de mediana a partir de datos tabulados.
+- **Plantilla:** "Al reordenar el tiempo de estudio de los dias de la semana, cual es el tiempo que hace referencia a la mediana?"
+- **Distractores tipicos:** No ordenar los datos; confundir posicion par con impar; calcular media en lugar de mediana.
+
+## P45. Geometria - Sistema de referencia y regiones
+- **Estimulo:** Mapa de un restaurante y casas con sistema de referencia bidimensional.
+- **Que evalua:** **Pensamiento Espacial**. Interpretacion de sistemas de coordenadas y regiones.
+- **Plantilla:** "Cual es la region que debe cubrir Carlos?"
+- **Distractores tipicos:** Invertir ejes; confundir regiones con trayectorias; no interpretar escalas.
+
+## P46. Estadistica - Interpretacion de tablas (electrodomesticos)
+- **Estimulo:** Tabla de fallas de electrodomesticos por marca (P vs R).
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Comparacion de proporciones y frecuencias relativas.
+- **Plantilla:** "Es verdadera la afirmacion del vendedor de que la mejor opcion es la marca P?"
+- **Distractores tipicos:** Comparar frecuencias absolutas sin considerar totales; confundir proporcion con cantidad; no identificar sesgos en el argumento.
+
+## P47. Estadistica/Proporcionalidad - Grafica vs tabla
+- **Estimulo:** Datos de almuerzos proporcionados en tabla y grafica propuesta.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Validacion de representaciones graficas.
+- **Plantilla:** "La informacion presentada en la grafica es..."
+- **Distractores tipicos:** No verificar correspondencia dato a dato; confundir escala con proporcionalidad; aceptar tendencias generales sin precision.
+
+## P48. Estadistica - Grafica de barras horizontales
+- **Estimulo:** Grafica de barras horizontales sobre almuerzos proporcionados.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Interpretacion critica de graficas con escala.
+- **Plantilla:** [Validacion de grafica de barras]
+- **Distractores tipicos:** No detectar errores en la escala; confundir barras horizontales con verticales; interpretar tendencias sin datos exactos.
+
+## P49. Algebra - Funciones cuadraticas (MUA)
+- **Estimulo:** Funcion f(x) = 5x^2 + 1 modelando movimiento uniformemente acelerado, con procedimiento del estudiante.
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Ecuaciones**. Identificacion de errores en procedimientos algebraicos.
+- **Plantilla:** "El docente le comunica al estudiante que hay un error en los pasos propuestos. Cual de los pasos contiene el error?"
+- **Distractores tipicos:** Confundir x^2 con 2*x; no identificar que x debe multiplicarse por si mismo; errores en sustitucion.
+
+## P50. Estadistica - Grafica de lineas vs tabla
+- **Estimulo:** Grafica de lineas sobre incidencia de pobreza por region (2011-2015) comparada con tabla.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Verificacion de correspondencia entre tablas y graficas.
+- **Plantilla:** "La informacion de los datos de la grafica es la misma que la informacion presentada en la tabla?"
+- **Distractores tipicos:** Comparar tendencias generales sin verificar puntos especificos; no detectar errores puntuales en la serie.
+
+## P51. Estadistica - Sistema de calificacion puntual
+- **Estimulo:** Sistema de calificacion de hojas de vida con factores: titulo, experiencia, formacion adicional.
+- **Que evalua:** **Pensamiento Metrico**. Reconocimiento de sistemas de puntuacion y sus aplicaciones.
+- **Plantilla:** "Para cual de las siguientes formas de valoracion de factores, se puede usar un sistema de calificaciones asi?"
+- **Distractores tipicos:** No identificar que es un sistema de suma de puntos; confundir con promedios ponderados.
+
+## P52. Trigonometria - Identidades trigonometricas
+- **Estimulo:** Dos procedimientos para calcular cot(60°) con diferentes formulas.
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Ecuaciones**. Verificacion de procedimientos trigonometricos.
+- **Plantilla:** "Respecto a estos procedimientos, es verdadero afirmar que..."
+- **Distractores tipicos:** Confundir seno con coseno; no verificar valores especiales; errores en identidades reciprocos.
+
+## P53. Estadistica - Procedimiento para identificar moda
+- **Estimulo:** Algoritmo de 2 pasos para identificar moda unica.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Aplicacion de algoritmos estadisticos.
+- **Plantilla:** "De acuerdo con el procedimiento planteado, cual de los siguientes conjuntos de numeros tiene una unica moda?"
+- **Distractores tipicos:** No identificar conjuntos bimodales; confundir moda con frecuencia; no aplicar el procedimiento paso a paso.
+
+## P54. Algebra/Funciones - Conversion de temperatura
+- **Estimulo:** Formula de conversion F = 1.8C + 32, rango de -10°C a 5°C.
+- **Que evalua:** **Pensamiento Variacional**. Analisis de comportamiento de funciones lineales en intervalos.
+- **Plantilla:** "Para temperaturas entre -10°C y 5°C, que caracteristicas tienen las temperaturas correspondientes en °F?"
+- **Distractores tipicos:** No evaluar el intervalo completo; confundir pendiente con intercepto; calcular solo valores extremos.
+
+## P55. Estadistica/Probabilidad - Graficas de probabilidad
+- **Estimulo:** Tabla de plantas danadas por pesticida y seleccion de grafica adecuada.
+- **Que evalua:** **Pensamiento Aleatorio**. Seleccion de representaciones apropiadas para datos de proporciones.
+- **Plantilla:** "De acuerdo con la informacion de la tabla, cual de las siguientes graficas ilustra mejor el comportamiento de los datos?"
+- **Distractores tipicos:** Elegir graficas que no representan proporciones; no identificar la variable dependiente correcta.
+
+## P56. Probabilidad - Probabilidad de eventos complementarios
+- **Estimulo:** 25 chocolates: 8 de mora, 5 de pina, resto de fresa y cereza. Tomar uno al azar.
+- **Que evalua:** **Pensamiento Aleatorio**. Calculo de probabilidades en espacios muestrales con datos incompletos.
+- **Plantilla:** "Armando toma al azar un chocolate de la caja, cual de las siguientes probabilidades se puede calcular?"
+- **Distractores tipicos:** Calcular probabilidades de eventos sin datos suficientes; confundir complemento con union.
+
+## P57. Estadistica - Calculo de promedio
+- **Estimulo:** Grafica de barras con numero de obreros y horas trabajadas. Estudiante calcula promedio como (10+15+5)/3.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Critica a procedimientos de calculo de promedios ponderados.
+- **Plantilla:** "Es correcta esta afirmacion? [sobre el calculo del promedio]"
+- **Distractores tipicos:** No ponderar por frecuencia; calcular media aritmetica simple de valores; confundir promedio de horas con promedio de obreros.
+
+## P58. Estadistica - Medida de tendencia central inadecuada
+- **Estimulo:** Empresa de calzado que quiere priorizar tallas mas vendidas; ejecutivo propone mediana.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Critica de seleccion de medidas de tendencia central.
+- **Plantilla:** "La propuesta del ejecutivo de calcular la mediana permite hallar el valor de referencia requerido?"
+- **Distractores tipicos:** No diferenciar mediana de moda; aceptar cualquier medida de tendencia central; no considerar que la mediana pierde informacion de frecuencias.
+
+## P59. Estadistica - Grafica de barras/promedio
+- **Estimulo:** Grafica de barras sobre kilogramos de cafe recolectados por trabajador.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Calculo de promedio a partir de graficas de barras.
+- **Plantilla:** "Con base en la informacion de la grafica, cual fue el promedio de cafe recolectado por trabajador?"
+- **Distractores tipicos:** Leer mal valores de la grafica; no sumar todas las barras; dividir incorrectamente.
+
+## P60. Geometria - Razon de semejanza (triangulos)
+- **Estimulo:** Baldosas triangulares equilateras W y X con perimetros 9 cm y 27 cm.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Razon de semejanza entre figuras regulares.
+- **Plantilla:** "Cual de los siguientes procedimientos permite hallar la razon de semejanza?"
+- **Distractores tipicos:** Confundir razon de perimetros con razon de areas; no dividir entre 3 para hallar lados; calcular razon invertida.
+
+## P61. Geometria - Areas de rectangulos y proporcionalidad
+- **Estimulo:** Dos terrenos rectangulares: X (20m x 10m) y Z (40m x 20m). Cliente afirma que area Z = 2 x area X.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Relacion entre dimensiones y area en escalamiento.
+- **Plantilla:** "Es correcta la afirmacion del cliente de que el area del terreno Z es el doble del area del terreno X?"
+- **Distractores tipicos:** Creer que duplicar dimensiones duplica el area; no calcular ambas areas; confundir perimetro con area.
+
+## P62. Estadistica - Procedimiento con promedio y mediana
+- **Estimulo:** Datos de frecuencia de viajes a Cartagena de 9 personas. Procedimiento: promedio, mediana, comparar, elegir menor.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Aplicacion de procedimientos estadisticos paso a paso.
+- **Plantilla:** "Siguiendo el procedimiento, cada cuanto se debe ofrecer un viaje a Cartagena?"
+- **Distractores tipicos:** Error en calculo de promedio; error en calculo de mediana; no seguir el paso 4 (elegir menor).
+
+## P63. Geometria - Calculo de area a pintar
+- **Estimulo:** Fachada de edificio (10m x 15m) con 3 ventanas (1 m2 cada una) y 1 puerta (2 m2).
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Calculo de area neta restando huecos.
+- **Plantilla:** "Cual sera el area total por pintar?"
+- **Distractores tipicos:** No restar ventanas; no restar puerta; restar incorrectamente; olvidar unidades.
+
+## P64. Geometria - Razon de semejanza
+- **Estimulo:** Procedimiento para hallar razon de semejanza de triangulos equilateros por perimetros.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Evaluacion de procedimientos geometricos.
+- **Plantilla:** "Es verdadera la afirmacion de Johana sobre el procedimiento?"
+- **Distractores tipicos:** No entender que en triangulos equilateros basta dividir perimetro entre 3; crear procedimientos innecesariamente complejos.
+
+## P65. Probabilidad - Probabilidad a partir de grafica
+- **Estimulo:** Grafica de barras sobre servicios de caja de compensacion (200 personas).
+- **Que evalua:** **Pensamiento Aleatorio**. Calculo de probabilidad frecuencial a partir de graficas.
+- **Plantilla:** "Si se escoge al azar uno de los 200 encuestados, cual es la probabilidad de que el servicio mas utilizado sea turismo?"
+- **Distractores tipicos:** Leer mal la grafica; calcular proporcion sobre total incorrecto; confundir porcentaje con probabilidad.
+
+## P66. Proporcionalidad - Regla de tres
+- **Estimulo:** Receta: 400g de malva para 8 litros. Jaime quiere 5 litros y compra 250g.
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Procesos**. Proporcionalidad directa.
+- **Plantilla:** "La cantidad de hierba malva comprada le permite preparar la bebida de acuerdo con la receta?"
+- **Distractores tipicos:** Error en regla de tres; confundir litros con gramos; no comparar cantidad necesaria vs comprada.
+
+## P67. Proporcionalidad - Proporcionalidad inversa
+- **Estimulo:** Relacion entre edad y minutos para resolver un problema (proporcionalidad inversa).
+- **Que evalua:** **Pensamiento Variacional**. Identificacion de proporcionalidad inversa.
+- **Plantilla:** "Que se puede afirmar correctamente sobre los minutos necesarios para resolver el problema?"
+- **Distractores tipicos:** Confundir proporcionalidad directa con inversa; no verificar constancia del producto.
+
+## P68. Trigonometria - Comparacion de razones trigonometricas
+- **Estimulo:** Pregunta sobre cual razon trigonometrica tiene mayor valor: sen(60°), sen(30°), tan(60°), tan(30°).
+- **Que evalua:** **Pensamiento Variacional**. Comparacion de valores trigonometricos especiales.
+- **Plantilla:** "Cual de las siguientes razones trigonometricas es la de mayor valor?"
+- **Distractores tipicos:** No conocer valores exactos; confundir seno con tangente; no comparar correctamente.
+
+## P69-P70. Geometria/Estadistica (preguntas adicionales)
+- **Estimulo:** [Variados - continuan patrones anteriores]
+- **Que evalua:** **Pensamiento Matematico General**.
+- **Patrones:** Geometria plana, estadistica descriptiva, proporcionalidad.
+
+
+---
+
+# AREA 2: MATEMATICAS Y RAZONAMIENTO CUANTITATIVO (Preguntas 51-81)
+
+---
+
+## P51. Geometria volumetrica - volumen de piscina
+- **Estimulo:** Piscina con medidas conocidas; se vierte agua hasta la mitad de su capacidad.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Calculo de volumenes y capacidad.
+- **Plantilla:** "Para saber cuanta agua se requiere, ¿que es lo primero que se debe calcular?"
+- **Distractores tipicos:** Calcular area en lugar de volumen; no entender que se necesita la capacidad total primero; confundir dimensiones.
+
+## P52. Estadistica/Graficas - tendencia de acciones
+- **Estimulo:** Grafica de valor de acciones de dos empresas durante 5 dias; tabla con valores diarios.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Extrapolacion de tendencias a partir de datos.
+- **Plantilla:** "Si se mantiene la tendencia, ¿cual es la diferencia esperada (aproximada) entre el valor de las acciones el dia 6?"
+- **Distractores tipicos:** No identificar la tendencia; calcular diferencia promedio incorrectamente; extrapolar sin fundamento.
+
+## P53. Estadistica/Graficas - interpretacion de tabla (esquiador)
+- **Estimulo:** Tabla con relacion altura-tiempo de un esquiador.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Lectura e interpretacion de datos tabulares.
+- **Plantilla:** "De acuerdo con la tabla, ¿cual es la altura del esquiador a los X segundos?"
+- **Distractores tipicos:** Leer mal la tabla; interpolar incorrectamente; confundir variables.
+
+## P54. Algebra - procedimiento para calcular alimento (camping)
+- **Estimulo:** Procedimiento de 3 pasos para calcular kg de alimento: sumar excursionistas, multiplicar por dias, multiplicar por 0.5 kg.
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Procesos**. Ejecucion de algoritmos paso a paso.
+- **Plantilla:** "Siguiendo el procedimiento planteado, ¿cuantos kilogramos de alimentos deben llevar los excursionistas?"
+- **Distractores tipicos:** Errores en orden de operaciones; no multiplicar correctamente; omitir pasos.
+
+## P55. Probabilidad - probabilidad condicional (internet por estrato)
+- **Estimulo:** 1000 casas estratos 1 y 2; 350 estrato 1 (20 con internet), 650 estrato 2 (550 con internet).
+- **Que evalua:** **Pensamiento Aleatorio**. Calculo de probabilidad de complemento.
+- **Plantilla:** "¿Cual es la probabilidad de que al elegir una casa al azar, esta NO tenga conexion a internet?"
+- **Distractores tipicos:** Calcular probabilidad de SI tener internet; no sumar correctamente; errores en fracciones.
+
+## P56. Algebra/Aritmetica - cuadrado de numero en grafica
+- **Estimulo:** Juego de computador: numero mostrado en grafica, jugador debe escribir su cuadrado.
+- **Que evalua:** **Pensamiento Numerico**. Operaciones aritmeticas basicas.
+- **Plantilla:** "Si en la pantalla aparece el numero que se muestra en la figura, ¿cual es el numero que el jugador debe escribir?"
+- **Distractores tipicos:** Elevar al cubo en lugar de al cuadrado; multiplicar por 2; no leer el numero correctamente.
+
+## P57. Geometria/Conversiones - distancia en kilometros (Triangulo de las Bermudas)
+- **Estimulo:** Triangulo formado por Miami, Bermudas, San Juan; distancia Miami-Bermudas en millas; conversion 1 milla = 1.6 km.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Conversion de unidades de longitud.
+- **Plantilla:** "Si una milla son 1.6 kilometros, ¿cual es la distancia en kilometros que separa Miami de Bermudas?"
+- **Distractores tipicos:** Dividir en lugar de multiplicar; usar escala incorrectamente; confundir millas con kilometros.
+
+## P58. Estadistica - moda
+- **Estimulo:** Atleta registra km recorridos durante 30 dias; quiere saber la moda.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Comprension del concepto de moda.
+- **Plantilla:** "Si el atleta desea saber la moda de los valores registrados, ¿cual de los siguientes datos debe conocer?"
+- **Distractores tipicos:** Confundir moda con media o mediana; no entender "valor que mas se repite"; confundir con maximo.
+
+## P59. Algebra/Funciones - funcion lineal (salario)
+- **Estimulo:** Salario basico $950.000 + $75.000 por cada año de experiencia.
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Ecuaciones**. Modelado de situaciones con funciones lineales.
+- **Plantilla:** "¿Cual de los siguientes procedimientos permite calcular el salario de un aspirante cualquiera?"
+- **Distractores tipicos:** Errores en la formula (sumar en lugar de multiplicar); no identificar la variable; confundir operaciones.
+
+## P60. Estadistica - rango de datos (Saber 11)
+- **Estimulo:** Tabla con cinco mejores puntajes en examen Saber 11 de un colegio.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Calculo del rango de un conjunto de datos.
+- **Plantilla:** "¿Entre que valores se encuentran todos los puntajes mostrados en la tabla?"
+- **Distractores tipicos:** No identificar minimo y maximo; calcular rango como diferencia; confundir con intervalo de clase.
+
+## P61. Estadistica/Probabilidad - distribucion de recursos
+- **Estimulo:** Donaciones para dos causas: 60% norte / 40% sur; 25% desastres / 75% social; del norte 15% desastres; del sur 40% desastres.
+- **Que evalua:** **Pensamiento Aleatorio**. Calculo de probabilidades compuestas.
+- **Plantilla:** [Calculo de probabilidad de distribucion de recursos]
+- **Distractores tipicos:** No aplicar probabilidades condicionales; sumar incorrectamente; confundir porcentajes.
+
+## P62. Algebra - ordenamiento de numeros reales
+- **Estimulo:** Ordenar x, x², x³ sabiendo que x es real diferente de 0, 1, -1. Dos soluciones propuestas (I: por signo; II: por magnitud).
+- **Que evalua:** **Pensamiento Variacional**. Analisis de casos para ordenamiento de expresiones algebraicas.
+- **Plantilla:** "Una persona analiza las dos soluciones y afirma que ninguna de las dos resuelve el problema. ¿Es verdadera la afirmacion?"
+- **Distractores tipicos:** No considerar valores negativos; no considerar fracciones; afirmar correctamente que una solucion funciona.
+
+## P63. Combinatoria - codigos de estudiantes
+- **Estimulo:** Codigo de 6 casillas: 2 primeras = ultimos 2 digitos del año; 4 restantes = cualquier numero 0-9 repetible.
+- **Que evalua:** **Pensamiento Variacional y Combinatorio**. Calculo de permutaciones con repeticion.
+- **Plantilla:** "¿Cual es el maximo numero de codigos diferentes que se pueden generar en cada año de ingreso?"
+- **Distractores tipicos:** No identificar que las 2 primeras estan fijadas; calcular permutaciones sin repeticion; no elevar correctamente.
+
+## P64. Estadistica/Algebra - valor no calculable
+- **Estimulo:** Tabla de compras en supermercado: articulos, cantidades, valores unitarios.
+- **Que evalua:** **Pensamiento Metrico**. Identificacion de que valores pueden/cannot ser calculados.
+- **Plantilla:** "Con base en la informacion suministrada, ¿cual de los siguientes valores NO se puede calcular?"
+- **Distractores tipicos:** No identificar que falta el numero de personas para dividir; calcular todo como si fuera posible.
+
+## P65. Geometria analitica - representacion grafica de coordenadas
+- **Estimulo:** Tabla de coordenadas de puntos P, Q, R para recorrido de grua.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Representacion grafica de puntos en plano cartesiano.
+- **Plantilla:** "Teniendo en cuenta el conjunto de coordenadas, ¿cual de las siguientes graficas representa el recorrido que debe hacer el operario de la grua?"
+- **Distractores tipicos:** Invertir ejes; no seguir el orden de los puntos; confundir coordenadas.
+
+## P66. Estadistica - errores en grafica de frecuencias
+- **Estimulo:** Tabla de distribucion de frecuencias de pesos de paquetes; funcionario construye grafica.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Critica de representaciones graficas.
+- **Plantilla:** "¿Que error cometio al construir la grafica?"
+- **Distractores tipicos:** No identificar errores en escalas; no detectar omision de datos; confundir tipo de grafica.
+
+## P67. Conversiones de unidades - litros a cm³
+- **Estimulo:** Recipiente con 2.5 litros de agua; conversion a cm³.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Conversion de unidades de volumen.
+- **Plantilla:** "Si cada litro equivale a 1000 cm³, en total, en ese recipiente hay..."
+- **Distractores tipicos:** Errores en notacion cientifica; multiplicar/dividir incorrectamente; confundir cm³ con cm².
+
+## P68. Algebra/Proporcionalidad - procedimiento de calculo (comida para gatos)
+- **Estimulo:** Tabla de porciones de comida para gatos por tamano; procedimiento de 3 pasos para calcular consumo.
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Procesos**. Ejecucion y verificacion de procedimientos.
+- **Plantilla:** "Al efectuar correctamente el procedimiento, se encuentra que..."
+- **Distractores tipicos:** Errores en multiplicacion; no comparar correctamente; confundir cantidades.
+
+## P69. Estadistica - suficiencia de informacion (coeficiente de correlacion)
+- **Estimulo:** Formula del coeficiente ρ(X,Y); tabla con varianzas y covarianza; falta desviacion estandar de Y.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Evaluacion de suficiencia de datos.
+- **Plantilla:** "¿Es suficiente la informacion que aparece en la tabla para calcular el coeficiente ρ(X,Y)?"
+- **Distractores tipicos:** No reconocer que la desviacion se puede calcular de la varianza; afirmar insuficiencia incorrectamente.
+
+## P70. Geometria - angulos de sombras paralelas
+- **Estimulo:** Dos postes paralelos (10m y 5m) proyectan sombras; angulo del poste 1 = 30°.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Angulos formados por objetos paralelos y sus sombras.
+- **Plantilla:** "De acuerdo con esto, se puede afirmar que el angulo entre la acera horizontal y la sombra del poste 2 es..."
+- **Distractores tipicos:** No reconocer que los angulos son iguales por paralelismo; calcular mitad del angulo; confundir con proporcion.
+
+## P71. Probabilidad - probabilidad de complemento (cafeina)
+- **Estimulo:** Granos de cafe: probabilidad de nivel bajo = 0.27.
+- **Que evalua:** **Pensamiento Aleatorio**. Calculo de probabilidad del complemento.
+- **Plantilla:** "¿Cual es la probabilidad de que al extraer un grano este tenga un nivel medio o alto de cafeina?"
+- **Distractores tipicos:** No aplicar P(complemento) = 1 - P(evento); calcular probabilidad condicional incorrecta.
+
+## P72. Estadistica - tabla de distribucion (estudiantes por curso)
+- **Estimulo:** Tabla de distribucion de niños por curso con hombres y mujeres.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Lectura e interpretacion de tablas de contingencia.
+- **Plantilla:** [Interpretacion de tabla]
+- **Distractores tipicos:** No sumar correctamente; confundir filas con columnas; calcular porcentajes incorrectos.
+
+## P73. Geometria - paralelas y angulos correspondientes
+- **Estimulo:** Segmentos paralelos PO y RS; triangulo PRO; procedimiento de 3 pasos con operaciones innecesarias.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Identificacion de procedimientos mas eficientes usando propiedades de paralelas.
+- **Plantilla:** "El anterior procedimiento incluye operaciones innecesarias, porque..."
+- **Distractores tipicos:** No identificar que angulos correspondientes tienen la misma medida; proponer atajos incorrectos.
+
+## P74. Estadistica - errores en calculo de promedio
+- **Estimulo:** Tiempos de ratones en laberinto: 49 min, 2 horas, 2.5 horas, 0.5 horas, 55 min; auxiliar suma y divide incorrectamente.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Identificacion de errores en calculo de promedios.
+- **Plantilla:** "El auxiliar concluyo que el tiempo promedio es 21 minutos. ¿Es verdadera la conclusion del auxiliar?"
+- **Distractores tipicos:** No identificar la falta de conversion de unidades; aceptar el procedimiento como correcto; errores en conversion.
+
+## P75. Geometria - desigualdad triangular (rutas de Mateo)
+- **Estimulo:** Mateo camina 30 min por ruta punteada; nueva ruta por parque; figura con rutas.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Aplicacion de la desigualdad triangular.
+- **Plantilla:** "Mateo afirma que, con la misma velocidad de siempre, el nuevo camino le tomara mas de 30 minutos. ¿Es correcta su afirmacion?"
+- **Distractores tipicos:** No aplicar desigualdad triangular; asumir que cualquier camino alternativo es mas largo; no razonar con velocidad constante.
+
+## P76. Geometria - aristas de un paralelepipedo
+- **Estimulo:** Caja rectangular: pegar hilo brillante en todas sus aristas; dimensiones: 50cm x 30.5cm x 25cm; calculo del hijo menor es incorrecto.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Calculo de numero de aristas en un prisma rectangular.
+- **Plantilla:** "Uno de sus hermanos identifica que este procedimiento es incorrecto. ¿Cual es el error en el calculo de dicha cantidad?"
+- **Distractores tipicos:** No reconocer que hay 4 aristas de cada dimension; calcular con 3, 2, 2; no entender la geometria del paralelepipedo.
+
+## P77. Aritmetica/Proporcion - impuesto (pago por ganancias)
+- **Estimulo:** Impuesto exige 2 pesos por cada 1000 ganados; persona gano $4.500.000.
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Procesos**. Regla de tres.
+- **Plantilla:** "¿Cual es el valor que debe pagar, debido a este impuesto, una persona que ha ganado $4.500.000?"
+- **Distractores tipicos:** Dividir en lugar de multiplicar; errores en la regla de tres; no cancelar unidades.
+
+## P78. Estadistica - estrategia para calcular promedio
+- **Estimulo:** Edades de 6 estudiantes en tabla; profesor quiere saber si promedio es 15 años.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Identificacion de estrategia correcta para calcular promedio.
+- **Plantilla:** "¿Cual de las siguientes estrategias debe efectuar el profesor para calcular la edad promedio?"
+- **Distractores tipicos:** Confundir promedio con mediana o moda; no dividir entre el total; ordenar y elegir el de la mitad.
+
+## P79. Geometria - ortocentro de triangulo
+- **Estimulo:** Definicion de ortocentro; triangulo MOP con alturas dibujadas.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Identificacion del ortocentro.
+- **Plantilla:** "¿En cual punto se ubica el ortocentro del triangulo?"
+- **Distractores tipicos:** Confundir ortocentro con baricentro o circuncentro; no identificar la interseccion de alturas.
+
+## P80. Algebra/Funciones - composicion de funciones (inversion en bolsa)
+- **Estimulo:** Dos modalidades de inversion: f(x)=2x (alto riesgo), g(x)=2x+1 (bajo riesgo); invierte 10 millones primero en bajo riesgo, luego todo en alto riesgo.
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Ecuaciones**. Composicion de funciones.
+- **Plantilla:** "¿Cuanto dinero recibio Armando al termino del segundo trimestre?"
+- **Distractores tipicos:** Aplicar funciones en orden incorrecto; no componer correctamente; errores en sustitucion.
+
+## P81. Logica/Aritmetica - razonamiento logico con desigualdades
+- **Estimulo:** Andres mide 1.7, 1.9 o 1.5; papa 1.8m, mama 1.6m; Andres es mas alto que mama pero mas bajo que papa.
+- **Que evalua:** **Pensamiento Logico Cuantitativo**. Razonamiento con desigualdades.
+- **Plantilla:** "¿Esta conclusion es verdadera?"
+- **Distractores tipicos:** No identificar que 1.7 esta entre 1.6 y 1.8; confundir con valor entero; no aplicar transitividad.
+
+# AREA 2: MATEMATICAS Y RAZONAMIENTO CUANTITATIVO (Preguntas 50-71)
+
+---
+
+## P50. Geometria plana - Conteo de sillas en filas (error en procedimiento)
+- **Estimulo:** Sala de conciertos con filas E,F,G,H (zona preferencial) e I,J,K,L (zona alta). Procedimiento de 3 pasos para contar sillas con error.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Identificacion de errores en procedimientos de conteo.
+- **Plantilla:** "En cual paso del procedimiento anterior se cometio un error?"
+- **Distractores tipicos:** No identificar que solo se contaron sillas de un lado; confundir resta con suma; no considerar simetria.
+
+## P51. Geometria volumetrica - Volumen de cilindro
+- **Estimulo:** Cilindro con diametro externo, grosor de 0.5 m; calcular agua necesaria.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Calculo de volumen de cilindro restando paredes.
+- **Plantilla:** "Que es lo primero que se debe calcular?"
+- **Distractores tipicos:** Usar diametro externo sin restar paredes; calcular area en lugar de volumen; no convertir unidades.
+
+## P52. Cinematica - Grafica altura-tiempo (acrobacia aerea)
+- **Estimulo:** Piloto describe su vuelo: 30s subiendo, 5s descenso en pirueta, 20s girando a altura constante, 25s aterrizando. Cuatro graficas propuestas.
+- **Que evalua:** **Pensamiento Variacional**. Interpretacion de narrativas cinematicas y representacion grafica.
+- **Plantilla:** "Cual grafica representa correctamente la informacion dada por el piloto?"
+- **Distractores tipicos:** No representar altura constante durante giro; confundir pendiente; no respetar tiempos.
+
+## P53. Proporcionalidad compuesta - Meriendas para ninos
+- **Estimulo:** 25 ninos, 4 dias, 100 meriendas. Cuantas meriendas para 50 ninos durante 7 dias?
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Procesos**. Proporcionalidad compuesta (directa-directa).
+- **Plantilla:** Proporcion compuesta: (100/25/4) * 50 * 7
+- **Distractores tipicos:** Aplicar solo proporcion simple; no considerar ambas variables; errores en multiplicacion.
+
+## P54. Cinematica - MRU (grafica velocidad vs distancia)
+- **Estimulo:** Futbolista recorre 80 m a velocidad constante de 20 km/h. Grafica velocidad vs distancia.
+- **Que evalua:** **Pensamiento Variacional**. Reconocimiento de MRU como linea horizontal en grafica v-d.
+- **Plantilla:** "Cual grafica representa correctamente la velocidad?"
+- **Distractores tipicos:** Grafica con pendiente (velocidad variable); no convertir unidades; confundir con grafica v-t.
+
+## P55. Porcentajes - Aumento porcentual (arboles)
+- **Estimulo:** 2000 arboles año 1, aumento del 15% año 2.
+- **Que evalua:** **Pensamiento Numerico**. Calculo de aumento porcentual.
+- **Plantilla:** 2000 * 1.15 = 2300
+- **Distractores tipicos:** Calcular solo el aumento (300); sumar 15 en lugar de 15%; dividir en lugar de multiplicar.
+
+## P56. Conversion de unidades de area (espejo rectangular)
+- **Estimulo:** Espejo 90 cm x 150 cm; convertir a m².
+- **Que evalua:** **Pensamiento Metrico**. Conversion de unidades de area (cm² → m²).
+- **Plantilla:** (90/100) * (150/100) = 1.35 m²
+- **Distractores tipicos:** No dividir por 100 para cada dimension; confundir cm² con m lineal; dividir por 1000.
+
+## P57. Geometria volumetrica - Cubo y dados
+- **Estimulo:** Caja cubica actual: 64 dados de 1cm³. Nueva caja: 216 dados. Medida del lado?
+- **Que evalua:** **Pensamiento Espacial**. Relacion entre volumen de cubo y arista.
+- **Plantilla:** ³√216 = 6 cm
+- **Distractores tipicos:** Dividir 216/64; calcular raiz cuadrada; confundir unidades (cm vs m).
+
+## P58. Geometria - Conteo de elementos de piramide (caras, aristas, vertices)
+- **Estimulo:** Piramide con base cuadrada; contar elementos.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Identificacion de elementos de cuerpos geometricos.
+- **Plantilla:** Vertices: 5, Aristas: 8, Caras: 5
+- **Distractores tipicos:** Confundir piramide con prisma; no contar la base; omitir vertices o aristas.
+
+## P59. Geometria - Aristas de caja rectangular
+- **Estimulo:** Caja con dimensiones l, a, h. Expresion para longitud total de aristas.
+- **Que evalua:** **Pensamiento Espacial**. Conteo de aristas en paralelepipedo (4l+4a+4h).
+- **Plantilla:** "4l + 4a + 4h"
+- **Distractores tipicos:** Sumar solo una vez (l+a+h); multiplicar dimensiones; no reconocer que hay 4 aristas de cada tipo.
+
+## P60. Conversion de unidades - Capacidad de lata (litros a cm³)
+- **Estimulo:** Lata de 5 litros; medidas en cm; procedimiento del cliente: multiplicar l×a×h y dividir entre 1000.
+- **Que evalua:** **Pensamiento Metrico**. Evaluacion de procedimiento de conversion de unidades.
+- **Plantilla:** El procedimiento es correcto: V(cm³)/1000 = litros.
+- **Distractores tipicos:** Confundir cm³ con litros; no entender que 1000 cm³ = 1 litro; pensar que debe compararse en cm³.
+
+## P61. Trigonometria - Coseno de angulo (escalera sobre muro)
+- **Estimulo:** Escalera apoyada en muro a 12 m del suelo; triangulo rectangulo.
+- **Que evalua:** **Pensamiento Variacional**. Razones trigonometricas en triangulos rectangulos.
+- **Plantilla:** cos(θ) = adyacente/hipotenusa
+- **Distractores tipicos:** Confundir cateto adyacente con opuesto; calcular seno o tangente; no aplicar teorema de Pitagoras.
+
+## P62. Geometria - Semejanza de triangulos
+- **Estimulo:** Triangulo rectangulo con catetos 3 y 4; multiplicar lados por 2; clasificar resultado.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Semejanza vs congruencia.
+- **Plantilla:** Triangulo rectangulo semejante al original (lados proporcionales).
+- **Distractores tipicos:** Confundir semejanza con congruencia; clasificar como isosceles; no reconocer que el angulo recto se conserva.
+
+## P63. Geometria plana - Area de region sombreada
+- **Estimulo:** Figura con region sombreada; procedimiento mostrado; determinar area.
+- **Que evalua:** **Pensamiento Espacial**. Calculo de areas por sustraccion.
+- **Plantilla:** Area total - Area no sombreada
+- **Distractores tipicos:** No restar correctamente; error en identificar regiones; calcular perimetro en lugar de area.
+
+## P64. Combinatoria - Diagrama de arbol (inventario de libros)
+- **Estimulo:** Biblioteca con 2 pisos y 3 estantes cada piso; diagrama de arbol con 6 posibilidades.
+- **Que evalua:** **Pensamiento Variacional y Combinatorio**. Diagramas de arbol y conteo sistematico.
+- **Plantilla:** 2 × 3 = 6 posibilidades (Piso 1-Estantes 1,2,3; Piso 2-Estantes 1,2,3)
+- **Distractores tipicos:** Invertir orden (estante-piso); crear permutaciones de 4 elementos; no listar todas las combinaciones.
+
+## P65. Geometria - Semejanza de triangulos rectangulos
+- **Estimulo:** Dos triangulos rectangulos con medidas parciales; afirmacion sobre lado LJ = 2×LN.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Verificacion de semejanza por proporcionalidad.
+- **Plantilla:** Los triangulos son semejantes → la proporcion se mantiene.
+- **Distractores tipicos:** Razonamiento por paridad (pares/impares); afirmar que son diferentes; no reconocer semejanza.
+
+## P66-P67. Geometria y trigonometria (continuacion)
+- **Patrones:** Triangulos, Pitagoras, descomposicion de fuerzas/velocidades.
+
+## P68. Teorema de Pitagoras - Telefono de vaso y cuerda
+- **Estimulo:** Nino en piso 3 de edificio X, amigo en piso 2 de edificio Y; triangulo formado por cuerda tensa; calcular longitud.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Aplicacion del teorema de Pitagoras a situaciones cotidianas.
+- **Plantilla:** h = distancia entre edificios; catetos = diferencia de pisos + distancia horizontal.
+- **Distractores tipicos:** Sumar distancias en lugar de usar Pitagoras; no considerar diferencia de altura; calcular perimetro.
+
+## P69. Geometria - Calculo de cateto en triangulo rectangulo
+- **Estimulo:** Cuadrado con diagonal; procedimiento de 2 pasos; encontrar valor de z (cateto).
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Aplicacion de Pitagoras a figuras cuadradas.
+- **Plantilla:** Si hipotenusa² = x² + z², despejar z.
+- **Distractores tipicos:** No elevar al cuadrado; confundir cateto con hipotenusa; error algebraico.
+
+## P70. Teorema de Pitagoras - Tapiz rectangular de gimnasta
+- **Estimulo:** Tapiz rectangular; diagonal = 10 m; un lado = 8 m; calcular otro lado.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Pitagoras aplicado a rectangulos.
+- **Plantilla:** Lado² + 8² = 10² → Lado = √(100-64) = 6 m
+- **Distractores tipicos:** Restar directamente (10-8=2); sumar en lugar de restar; no aplicar raiz cuadrada.
+
+## P71. Combinatoria - Permutaciones de discos en barra
+- **Estimulo:** 4 discos diferentes a lo largo de una barra; numero de ordenamientos posibles.
+- **Que evalua:** **Pensamiento Variacional y Combinatorio**. Permutaciones de n elementos.
+- **Plantilla:** 4! = 24 formas
+- **Distractores tipicos:** 4 (solo posiciones); 4² = 16; sumar en lugar de multiplicar.
+
+## P72. Combinatoria - Combinaciones (estudiantes para foro)
+- **Estimulo:** 5 estudiantes a enviar: 2 de grado 10 (5 disponibles) y 3 de grado 11 (4 disponibles).
+- **Que evalua:** **Pensamiento Variacional y Combinatorio**. Combinaciones: C(5,2) × C(4,3).
+- **Plantilla:** C(5,2) = 10; C(4,3) = 4; Total = 10 × 4 = 40
+- **Distractores tipicos:** Sumar 5+4=9; C(5,2)+C(4,3)=14; no multiplicar las combinaciones.
+
+## P73. Combinatoria - Correccion de procedimiento (comisiones)
+- **Estimulo:** De 10 personas: comision de 4, luego de las restantes comision de 2. Error en afirmacion.
+- **Que evalua:** **Pensamiento Variacional**. Analisis de validez de procedimientos combinatorios.
+- **Plantilla:** Despues de escoger 4, quedan 6 (no 10); C(10,4) × C(6,2).
+- **Distractores tipicos:** No reducir el conjunto; reutilizar las 10 personas; C(10,4) × C(10,2).
+
+---
+
+---
+
+# AREA 2: MATEMATICAS Y RAZONAMIENTO CUANTITATIVO (Preguntas 50-69)
+
+---
+
+## P50. Proporcionalidad - Futbolista: tiros y goles
+- **Estimulo:** 4 goles por cada 5 tiros. En 25 tiros anoto 20 goles (25 x 4/5 = 20). Si anota 12 goles, ¿cuantos tiros pateo?
+- **Que evalua:** **Pensamiento Variacional**. Proporcionalidad directa.
+- **Plantilla:** (12 × 5) / 4 = 15 tiros.
+- **Distractores tipicos:** Error en la proporcion; multiplicar 12 x 4; dividir 12/4.
+
+## P51. Optimizacion - Carga de aviones (problema de mochila)
+- **Estimulo:** Dos aviones: capacidad 12t y 10t. Cuatro cajas: 8, 7, 5, 2 toneladas. Distribuir cajas sin exceder capacidades.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Optimizacion combinatoria.
+- **Plantilla:** Avion 1 (12t): 8+2=10t o 7+5=12t; Avion 2 (10t): la combinacion restante.
+- **Distractores tipicos:** Exceder capacidad; no usar todas las cajas; no verificar sumas.
+
+## P52. Logica/Suficiencia de datos - Grupo de estudio
+- **Estimulo:** Invitaciones a todos los estudiantes; 13 respuestas afirmativas. ¿Que se puede calcular?
+- **Que evalua:** **Pensamiento Logico**. Evaluacion de suficiencia de informacion.
+- **Plantilla:** Solo se puede calcular la cantidad de personas en el grupo (13).
+- **Distractores tipicos:** Intentar calcular rechazados sin saber total; calcular invitaciones pendientes.
+
+## P53. Conversion de moneda - Precio de tiquete en dolares
+- **Estimulo:** Tiquete cuesta cierta cantidad; conversion a dolares.
+- **Que evalua:** **Pensamiento Metrico**. Conversion de divisas.
+- **Distractores tipicos:** Error en tasa de cambio; multiplicar en lugar de dividir.
+
+## P54. Graficas de funciones - Audiencia de documentales
+- **Estimulo:** Grafica de audiencia de documentales P y Q durante 30 dias. Empleado concluye que Q siempre tuvo mayor audiencia.
+- **Que evalua:** **Pensamiento Variacional**. Critica de interpretacion de graficas.
+- **Plantilla:** Analisis de la relacion algebraica entre P(x) y Q(x).
+- **Distractores tipicos:** No verificar todos los puntos; asumir tendencia general como absoluta.
+
+## P55. Porcentajes - Variacion porcentual de precio
+- **Estimulo:** Producto de $150 a $375. Procedimiento de 3 pasos para variacion porcentual.
+- **Que evalua:** **Pensamiento Numerico**. Calculo de variacion porcentual.
+- **Plantilla:** (375/150 - 1) × 100 = 150%.
+- **Distractores tipicos:** Error en restar 1; dividir al reves; no multiplicar por 100.
+
+## P56. Velocidad promedio - Viaje de ida y vuelta
+- **Estimulo:** Dos ciudades a 800 km. Ida: 2 horas. Vuelta: 500 km/h. Velocidad promedio total.
+- **Que evalua:** **Pensamiento Variacional**. Velocidad promedio (no es promedio aritmetico).
+- **Plantilla:** vuelta = 800/500 = 1.6h; total = 1600km/3.6h ≈ 444 km/h.
+- **Distractores tipicos:** Promedio aritmetico (450); no calcular tiempo de vuelta; sumar velocidades.
+
+## P57. Probabilidad - Juego "Raspa y gana"
+- **Estimulo:** Tarjeta con color (amarillo, azul, rojo) y digito (1-5). Gana si: amarillo O azul Y digito 1 O 2.
+- **Que evalua:** **Pensamiento Aleatorio**. Probabilidad de eventos compuestos.
+- **Plantilla:** P(amarillo o azul) = 2/3; P(digito 1 o 2) = 2/5; P(ganar) = (2/3)×(2/5) = 4/15... pero hay que verificar si es correcto.
+- **Distractores tipicos:** Sumar probabilidades; no multiplicar eventos independientes; error en conteo.
+
+## P58. Tablas y graficas - Camion: costo, combustible, distancia
+- **Estimulo:** Tabla con parametros de viaje; seleccionar grafica correcta.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Representacion grafica de datos tabulares.
+- **Distractores tipicos:** No relacionar variables correctamente; confundir ejes; no interpretar tendencias.
+
+## P59. Funciones lineales - Hotel: consumo de agua y donacion
+- **Estimulo:** f(x) = 250x + 120 (litros consumidos). Dona 2 litros por cada 5 consumidos.
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Ecuaciones**. Composicion de funciones.
+- **Plantilla:** g(x) = (2/5) × f(x) = (2/5)(250x + 120).
+- **Distractores tipicos:** Sumar fraccion en lugar de multiplicar; invertir relacion; error algebraico.
+
+## P60. Proporcionalidad inversa - Trabajadores y tiempo de obra
+- **Estimulo:** Relacion entre numero de trabajadores y tiempo de obra.
+- **Que evalua:** **Pensamiento Variacional**. Proporcionalidad inversa.
+- **Plantilla:** Producto constante: trabajadores × tiempo = k.
+- **Distractores tipicos:** Confundir con proporcionalidad directa; no verificar constancia del producto.
+
+## P61. Diagramas de Venn - Transporte al trabajo
+- **Estimulo:** 160 personas; transporte publico, bicicleta, carro. Algunos usan 1, 2 o 3 medios.
+- **Que evalua:** **Pensamiento Espacial**. Diagramas de Venn y conteo.
+- **Plantilla:** Suma de personas que usan bicicleta en cualquier combinacion.
+- **Distractores tipicos:** No incluir intersecciones; sumar incorrectamente; omitir personas.
+
+## P62. Diagramas de barras - Estudiantes y actividades (mujeres/hombres)
+- **Estimulo:** Mujeres practican deporte (atletismo, ciclismo, natacion); hombres practican arte (danza, musica).
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Diagramas de barras para datos categoricos.
+- **Plantilla:** Identificar diagrama que muestra estudiantes con UNA sola actividad.
+- **Distractores tipicos:** No diferenciar una actividad de multiples; confundir diagramas.
+
+## P63. Correlacion - Entrenamiento y calorias quemadas
+- **Estimulo:** Correlacion positiva entre horas de entrenamiento y calorias quemadas.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Interpretacion de correlacion positiva.
+- **Plantilla:** Diagrama de dispersion con tendencia ascendente.
+- **Distractores tipicos:** Correlacion negativa; sin correlacion; lineal exacta.
+
+## P64. Estadistica - Moda vs promedio (dados)
+- **Estimulo:** Estrategia de Carlos: calcular moda de 5 lanzamientos, calcular promedio, escoger el menor.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Calculo de moda y promedio.
+- **Datos:** 5, 1, 3, 6, 5 → Moda = 5; Promedio = 4 → Escoge 4.
+- **Distractores tipicos:** Error en calculo de moda; no comparar correctamente.
+
+## P65. pH y mediana - Calculo de mediana
+- **Estimulo:** Valores de pH: detergente 12, zumo de limon 2, leche 6, hidroxido de sodio 14. Procedimiento de 3 pasos.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Calculo de mediana para datos pares.
+- **Plantilla:** Ordenados: 2, 6, 12, 14 → Mediana = (6+12)/2 = 9.
+- **Distractores tipicos:** No promediar los dos del medio; elegir uno solo; error en ordenamiento.
+
+## P66. Semejanza de triangulos - Arquitecto y casa
+- **Estimulo:** Dibujo de casa con medidas x=10m, t=12m. Ayudante construye con s=5cm, t=12cm, o=20cm, z=10cm.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Semejanza y proporcionalidad.
+- **Plantilla:** Verificar que las proporciones se mantengan.
+- **Distractores tipicos:** No verificar todas las dimensiones; confundir semejanza con congruencia.
+
+## P67. Promedio/Mediana/Moda - Precios de papa
+- **Estimulo:** 10 precios: dos $1.000, cinco $1.100, tres $1.200. Medida de tendencia central.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Eleccion de medida de tendencia central.
+- **Plantilla:** Media = $1.090; Mediana = $1.100; Moda = $1.100.
+- **Distractores tipicos:** No calcular correctamente; confundir medidas.
+
+## P68. Torneo deportivo - Tabla de clasificacion y puntajes
+- **Estimulo:** Tres atletas con puntos en 4 intentos. Puntaje definitivo = suma de 4 intentos.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Suma y ordenamiento de datos.
+- **Plantilla:** Sumar puntos por atleta y ordenar de mayor a menor.
+- **Distractores tipicos:** No sumar todos los intentos; error en lectura de tabla.
+
+## P69. Desviacion estandar - Tension arterial
+- **Estimulo:** Tabla de tension arterial: persona, presion diastolica, presion sistolica, nivel. Procedimiento de 2 pasos para desviacion estandar.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Identificacion de variables cuantitativas.
+- **Plantilla:** Desviacion estandar aplica a presiones diastolica y sistolica (variables numericas).
+- **Distractores tipicos:** Incluir variable categorica (nivel); incluir identificador (persona).
+
+---
+
+---
+
+# AREA 1: MATEMATICAS (Preguntas 1-25)
+
+---
+
+## P1. Promedio de edades (estadistica descriptiva)
+- **Estimulo:** Tabla con edades de 7 mujeres al tener su primer hijo.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Calculo de promedio (media aritmetica) a partir de datos tabulados.
+- **Plantilla:** "Cual es el promedio de edad de las mujeres al tener su primer hijo?" - Sumar las 7 edades y dividir entre 7.
+- **Distractores tipicos:** No sumar todas las edades; dividir entre numero incorrecto (6 u 8); confundir promedio con mediana; no redondear correctamente.
+
+## P2. Impuestos y tiquetes (evaluacion de suficiencia de datos)
+- **Estimulo:** 5 tiquetes para jueves ($80.000 c/u) y 2 para sabado ($150.000 c/u); impuestos variables segun temporada (12% y 19%); formula dada P = NxT(1+I).
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Procesos**. Evaluacion de si la informacion disponible es suficiente para realizar un calculo.
+- **Plantilla:** "Es posible calcular el valor total que pago Andres?"
+- **Distractores tipicos:** No identificar que falta la temporada para determinar el impuesto; intentar calcular asumiendo una temporada; confundir variables de la formula.
+
+## P3. Diagrama de Venn y tabla de frecuencias (estadistica/validacion)
+- **Estimulo:** Diagrama de Venn con 3 efectos secundarios en 60 pacientes; tabla propuesta por medico para reportar.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Validacion de representacion tabular a partir de diagrama de Venn con intersecciones.
+- **Plantilla:** "Es valida la informacion registrada en la tabla?"
+- **Distractores tipicos:** No considerar intersecciones entre conjuntos (pacientes con multiples efectos); aceptar tabla sin verificar que la suma de casos individuales mas intersecciones iguala 60; confundir pacientes unicos con pacientes afectados.
+
+## P4. Proporciones y graficas de barras (estadistica/interpretacion)
+- **Estimulo:** Grafica de barras sobre incidencia de pobreza por region (2011-2015) comparada con tabla de datos numericos.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Verificacion de correspondencia entre representaciones graficas y tabulares.
+- **Plantilla:** "La informacion presentada en la grafica es la misma que la informacion presentada en la tabla?"
+- **Distractores tipicos:** Aceptar tendencias generales sin verificar datos puntuales de cada ano; no detectar errores en escalas o valores; comparar solo un par de anos en lugar de toda la serie.
+
+## P5. Combinatoria - Formacion de grupos de estudiantes
+- **Estimulo:** Profesor forma grupos de 3 estudiantes para debates; variables x, y, z, w representan cantidades; condicion "al menos un hombre".
+- **Que evalua:** **Pensamiento Variacional y Combinatorio**. Identificacion de variables relevantes segun condiciones de un problema combinatorio.
+- **Plantilla:** "Que variables permiten calcular el numero de formas de hacer los grupos teniendo al menos un hombre?"
+- **Distractores tipicos:** No aplicar la restriccion correctamente; incluir variables irrelevantes; confundir combinaciones con permutaciones; no restar casos no deseados del total.
+
+## P6. Premios y tabla de frecuencias (estadistica/tabular)
+- **Estimulo:** Banco premia usuarios de credito con premios en efectivo; tabla con tipos de premio y cantidades.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Construccion e interpretacion de tablas de frecuencia con datos monetarios.
+- **Plantilla:** Calculo de total de premios = suma de (cantidad de cada tipo x valor de cada premio).
+- **Distractores tipicos:** Error en multiplicacion cantidad x valor; no sumar correctamente todos los tipos; confundir cantidad de premios con valor total.
+
+## P7. Progresion geometrica/ahorro (sucesiones)
+- **Estimulo:** Familia ahorra para bicicleta ($750.000); ahorro semanal siguiendo progresion: semana 1 = $50.000, semana 2 = $100.000, semana 3 = $200.000, etc. (duplica cada semana).
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Procesos**. Sucesiones geometricas (potencias de 2).
+- **Plantilla:** Calcular semanas necesarias: 50.000 x 2^(n-1); sumar progresion hasta alcanzar o superar $750.000.
+- **Distractores tipicos:** Error en formula geometrica (usar razon incorrecta); no identificar que es progresion geometrica con razon 2; calcular solo la ultima semana sin sumar.
+
+## P8. Porcentajes y ahorro (matematica financiera)
+- **Estimulo:** Estefania gana $500.000 mensuales; ahorra 3% mensual; calcular ahorro en 10 meses.
+- **Que evalua:** **Pensamiento Numerico**. Calculo de porcentajes acumulados en contexto financiero.
+- **Plantilla:** Ahorro mensual = $500.000 x 0.03 = $15.000; en 10 meses = $15.000 x 10 = $150.000.
+- **Distractores tipicos:** Calcular solo un mes ($15.000); error en porcentaje (usar 0.3 en lugar de 0.03); sumar $500.000 + 3% incorrectamente; no multiplicar por 10.
+
+## P9. Distribucion de papas (grafica de barras/estadistica)
+- **Estimulo:** 2000 papas separadas por peso en 4 categorias (menos de 100g, 100-150g, 150-200g, mas de 200g); tabla de frecuencias.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Construccion e interpretacion de graficas de barras a partir de tabla de frecuencias.
+- **Plantilla:** Identificar la grafica donde las barras correspondan proporcionalmente a las frecuencias de cada categoria.
+- **Distractores tipicos:** No respetar escalas en el eje vertical; confundir barras con otro tipo de representacion (pastel, lineas); intercambiar categorias.
+
+## P10. Encuesta y representatividad (estadistica/muestreo)
+- **Estimulo:** Encuesta realizada en un solo municipio para representar opinion de todo un departamento sobre la calidad de un producto alimenticio.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Critica de metodos de muestreo y representatividad.
+- **Plantilla:** "Por que el resultado de la encuesta puede diferir de la realidad del departamento?"
+- **Distractores tipicos:** No identificar la falta de representatividad municipal a departamental; aceptar muestra como valida; confundir tamano de muestra con representatividad; no considerar variabilidad geografica.
+
+## P11. Geometria plana - Area de porciones de torta rectangular
+- **Estimulo:** Torta rectangular 60cm x 20cm repartida en 8 porciones iguales con cortes rectos.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Calculo de area de regiones en division geometrica.
+- **Plantilla:** Area total = 60 x 20 = 1200 cm2; area por porcion = 1200 / 8 = 150 cm2.
+- **Distractores tipicos:** No dividir correctamente entre 8; calcular perimetro en lugar de area; error en area total (60+20 en lugar de 60x20); no entender que "porciones iguales" implica misma area.
+
+## P12. Conversion de unidades (metrico/validacion)
+- **Estimulo:** Pesos de pedidos en diferentes unidades (kg, toneladas); empleado los suma sin convertir previamente.
+- **Que evalua:** **Pensamiento Metrico**. Critica de operaciones aritmeticas con unidades incompatibles.
+- **Plantilla:** "La solucion propuesta por el empleado es correcta?"
+- **Distractores tipicos:** Aceptar suma sin conversion de unidades; no identificar la incompatibilidad entre kg y toneladas; convertir incorrectamente (1 ton = 100 kg en lugar de 1000 kg).
+
+## P13. Geometria plana - Area de regiones (lienzo con cuadrado inscrito)
+- **Estimulo:** Lienzo 8m x 5m con cuadrado inscrito; regiones 1 y 2 sombreadas; procedimiento de 4 pasos para calcular area.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Identificacion de errores en procedimientos de calculo de area.
+- **Plantilla:** "En que paso del procedimiento se cometio el error y como se puede corregir?"
+- **Distractores tipicos:** No verificar cada paso del procedimiento; aceptar procedimiento como correcto sin validacion; identificar paso correcto como erroneo; no proponer correccion adecuada.
+
+## P14. Tabla y grafica de intencion de voto (estadistica/construccion)
+- **Estimulo:** Datos de intencion de voto en tabla con porcentajes por candidato; grafica propuesta.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Relacion bidireccional tabla-grafica y obtencion de datos de una representacion.
+- **Plantilla:** "Cual grafica representa correctamente los datos de la tabla?"
+- **Distractores tipicos:** No respetar proporciones en grafica; confundir porcentajes con cantidades absolutas; intercambiar candidatos; no sumar a 100%.
+
+## P15. Geometria - Tendencia de ahorro (progresion aritmetica)
+- **Estimulo:** Tabla de ahorro mensual con valores que siguen un patron constante.
+- **Que evalua:** **Pensamiento Variacional**. Identificacion de tendencia en patrones numericos (progresion aritmetica).
+- **Plantilla:** "La tendencia de los ahorros es que aumentan/disminuyen $X cada mes."
+- **Distractores tipicos:** No identificar patron constante; confundir aumento con disminucion; calcular diferencia incorrectamente; no expresar la tendencia en terminos de variacion constante.
+
+## P16. Promedio de piezas reemplazadas (estadistica)
+- **Estimulo:** Tabla con numero de piezas reemplazadas por tipo de vehiculo en un taller.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Calculo de media aritmetica a partir de datos tabulados.
+- **Plantilla:** Promedio = (suma de piezas reemplazadas) / (numero de vehiculos).
+- **Distractores tipicos:** No sumar todos los datos; dividir por cantidad incorrecta; confundir con mediana o moda; incluir categorias no solicitadas.
+
+## P17. Diagramas de Venn - Transporte (estadistica/conjuntos)
+- **Estimulo:** 160 personas; transporte publico (T), bicicleta (B), carro (C); intersecciones conocidas.
+- **Que evalua:** **Pensamiento Espacial y Geometrico / Pensamiento Metrico**. Lectura de diagrama de Venn y suma de conjuntos con intersecciones.
+- **Plantilla:** "Cuantas personas usan bicicleta (incluyendo quienes usan bicicleta y otro medio)?"
+- **Distractores tipicos:** No incluir intersecciones (quienes usan B y T, o B y C, o los tres); sumar solo una categoria; no usar principio de inclusion-exclusion; error en lectura de valores del diagrama.
+
+## P18. Geometria - Cuadrado inscrito y paso redundante
+- **Estimulo:** Cuadrado EFGH con lado x+y; cuadrado inscrito PQRS; distancia x entre cuadrados; procedimiento de 4 pasos para hallar area de region sombreada.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Identificacion de pasos redundantes en procedimientos geometricos.
+- **Plantilla:** "Cual paso es innecesario y por que?"
+- **Distractores tipicos:** No identificar que multiplicar area de un triangulo por 4 y luego sumar cuatro veces es redundante; eliminar un paso necesario; no justificar la redundancia.
+
+## P19. Cinematica - Formula de MRUV (factorizacion algebraica)
+- **Estimulo:** Carro entra a tunel a 10 m/s, acelera a 3 m/s2 durante 15 s; formula d = v0*t + (1/2)*a*t^2; persona propone d = t*(v0 + (1/2)*a*t); verificar equivalencia.
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Ecuaciones**. Factorizacion algebraica y verificacion de equivalencia de expresiones.
+- **Plantilla:** "La expresion propuesta es equivalente a la formula original?"
+- **Distractores tipicos:** Error en factorizacion; cancelar exponente incorrectamente (t^2/t = t, no 1); no verificar sustituyendo valores; confundir factor comun.
+
+## P20. Conversion de unidades digitales (evaluacion de procedimientos)
+- **Estimulo:** Archivo de 12,6 MB; velocidad de descarga 300 KB/s; 1 MB = 1024 KB; identificar procedimiento NO valido para calcular tiempo.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Evaluacion de procedimientos de conversion de unidades digitales.
+- **Plantilla:** Tiempo = (12,6 MB x 1024 KB/MB) / 300 KB/s; identificar cual procedimiento NO da este resultado.
+- **Distractores tipicos:** Confundir multiplicacion con division; usar 1000 en lugar de 1024; invertir formula (300/12,6); no cancelar unidades correctamente.
+
+## P21. Geometria - Semejanza de triangulos (rampa)
+- **Estimulo:** Rampa con triangulo semejante; columna a 2m del muro; relacion proporcional dada (3m/4m).
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Teorema de Tales (semejanza de triangulos) aplicado a rampas.
+- **Plantilla:** h / 2 = 3 / 4 (por semejanza); despejar h = (3 x 2) / 4 = 1.5 m.
+- **Distractores tipicos:** Error en proporcion (invertir: 4/3); no usar semejanza (usar Pitagoras incorrectamente); dividir al reves (2/3 en lugar de 3/2).
+
+## P22. Geometria analitica - Coordenadas polares
+- **Estimulo:** Cuatro aviones con coordenadas polares (r, θ); torre de control en origen; ordenar por distancia.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Coordenadas polares; distancia al origen = radio (r).
+- **Plantilla:** Ordenar los aviones por valor de r (de menor a mayor o viceversa segun se pida).
+- **Distractores tipicos:** Considerar angulo θ para determinar distancia; no entender que en coordenadas polares la distancia al origen es el radio; ordenar por angulo en lugar de radio.
+
+## P23. Aritmetica - Suma de distancias (problema contextualizado)
+- **Estimulo:** Kevin entrega pedidos: 3 cuadras, luego el doble (6 cuadras), luego la mitad de eso (3 cuadras), luego 1 cuadra a casa.
+- **Que evalua:** **Pensamiento Numerico**. Modelado de situacion con operaciones aritmeticas secuenciales.
+- **Plantilla:** Distancia total = 3 + 6 + 3 + 1 = 13 cuadras (o variante segun ordenamiento).
+- **Distractores tipicos:** No interpretar correctamente "doble" y "mitad"; omitir el ultimo tramo a casa; error en orden de operaciones; no sumar todos los tramos.
+
+## P24. Presion arterial y mediana (estadistica/ordenamiento)
+- **Estimulo:** Tabla de presion arterial de pacientes con valores sistolica y diastolica; ordenar para tratamiento prioritario.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Ordenamiento de datos y toma de decisiones basada en datos medicos.
+- **Plantilla:** Ordenar pacientes por nivel de presion (mayor a menor urgencia) o calcular mediana.
+- **Distractores tipicos:** Ordenar incorrectamente (menor a mayor en lugar de mayor a menor); no usar todos los datos; confundir presion sistolica con diastolica; no identificar pacientes prioritarios.
+
+## P25. Geometria - Area de triangulos en cuadrado con cuadrado inscrito
+- **Estimulo:** Cuadrado EFGH con lado x+y; cuadrado inscrito PQRS con distancia x entre ambos; area de 4 triangulos sombreados.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Calculo de area por descomposicion geometrica.
+- **Plantilla:** Area = 4 x (1/2 x base x altura) = 4 x (1/2 x x x y) = 2xy; o area total del cuadrado grande menos area del cuadrado inscrito.
+- **Distractores tipicos:** No descomponer correctamente en triangulos; error en dimensiones de base y altura; no usar la relacion entre cuadrados concentricos; calcular perimetro en lugar de area.
+
+---
+
+
+# AREA 2: MATEMATICAS (Preguntas 26-50)
+
+---
+
+## P26-P29. Texto base: Voto por correo (estadistica/proporcionalidad)
+- **Estimulo:** Grafica de resultados electorales por correo; diferencias entre resultados tradicionales y por correo.
+
+### P26. Comparacion de resultados electorales
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Comparacion de proporciones en graficas de barras.
+- **Plantilla:** "Cual candidato obtuvo mayor diferencia entre votos por correo y votos tradicionales?"
+- **Distractores tipicos:** No calcular diferencias; confundir porcentaje con cantidad; no comparar correctamente.
+
+### P27. Proporcionalidad - Representacion de datos
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Representacion grafica de proporciones.
+- **Plantilla:** "Cual grafica representa correctamente la proporcion de votos?"
+- **Distractores tipicos:** No respetar proporciones; usar escalas incorrectas; confundir tipo de grafica.
+
+### P28. Probabilidad - Seleccion de votantes
+- **Que evalua:** **Pensamiento Aleatorio**. Calculo de probabilidad a partir de datos tabulados.
+- **Plantilla:** "Cual es la probabilidad de seleccionar un votante que...?"
+- **Distractores tipicos:** No calcular correctamente el espacio muestral; confundir frecuencia con probabilidad.
+
+### P29. Estadistica - Medidas de tendencia central
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Calculo de medidas de tendencia central.
+- **Plantilla:** "Cual es la mediana/moda de los datos?"
+- **Distractores tipicos:** Confundir mediana con media; no ordenar datos para mediana; calcular incorrectamente.
+
+## P30. Eleccion de telefono celular (tabla de decision)
+- **Estimulo:** Tabla con 7 opciones de telefonos (marca, modelo, precio); persona quiere el mas caro.
+- **Que evalua:** **Pensamiento Metrico**. Lectura e interpretacion de tablas comparativas.
+- **Plantilla:** "Cual es la mejor eleccion si la persona quiere el telefono mas caro?"
+- **Distractores tipicos:** No identificar el precio maximo; confundir modelo con precio; no leer tabla correctamente.
+
+## P31. Combinatoria - Placas de vehiculos (dos tipos)
+- **Estimulo:** Tipo 1: 3 letras + 3 digitos (todos repetibles). Tipo 2: letra T + 4 digitos (repetibles). 26 letras, 10 digitos.
+- **Que evalua:** **Pensamiento Variacional y Combinatorio**. Principio multiplicativo y suma de casos.
+- **Plantilla:** "Cual expresion calcula el numero maximo de placas de ambos tipos?"
+- **Distractores tipicos:** No aplicar principio multiplicativo correctamente; sumar en lugar de multiplicar; confundir letras con digitos; no considerar ambos tipos.
+
+## P32. Proporcionalidad/Optimizacion - Compra de papas fritas (comparacion de procedimientos)
+- **Estimulo:** Supermercado 1: $1.000/paquete, promocion "5 por 4". Supermercado 2: $850/paquete. $5.000 disponibles. Dos procedimientos de calculo.
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Procesos**. Ejecucion y comparacion de procedimientos.
+- **Plantilla:** "En cual supermercado puede comprar mas paquetes con $5.000?"
+- **Distractores tipicos:** Error en aproximacion a entero menor; no aplicar promocion correctamente; confundir divisiones.
+
+## P33. Proporcionalidad directa - Automovil en carretera recta
+- **Estimulo:** Automovil a rapidez constante; tabla distancia vs tiempo; valor faltante.
+- **Que evalua:** **Pensamiento Variacional**. Proporcionalidad directa (distancia = velocidad x tiempo).
+- **Plantilla:** "Cual es el valor de la distancia en el minuto 4 y que tipo de proporcionalidad existe?"
+- **Distractores tipicos:** No identificar proporcionalidad directa; calcular valor incorrecto; confundir con proporcionalidad inversa.
+
+## P34. Funciones lineales - Estatura vs edad (validacion de expresion algebraica)
+- **Estimulo:** Tabla estatura vs edad (meses 1-4); expresion: Estatura = 67 - (6 x edad).
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Ecuaciones**. Validacion de modelo algebraico.
+- **Plantilla:** "La expresion algebraica representa correctamente la informacion de la tabla?"
+- **Distractores tipicos:** Error en signo del coeficiente; no verificar sustituyendo valores; confundir pendiente con intercepto.
+
+## P35. Probabilidad/Combinatoria - Bolas en bolsa (casos favorables y posibles)
+- **Estimulo:** 4 bolas azules y 5 negras; sacar 3; gana si al menos 2 son azules.
+- **Que evalua:** **Pensamiento Aleatorio**. Calculo de probabilidad usando combinaciones.
+- **Plantilla:** "Para calcular la probabilidad, tambien se debe calcular el numero de..."
+- **Distractores tipicos:** No calcular casos posibles (C(9,3)); confundir con permutaciones; no incluir todos los casos favorables.
+
+## P36-P39. Texto base: Encuesta sobre deporte y TV (estadistica)
+
+### P36. Proporcionalidad - Grafica de barras
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Interpretacion de graficas de barras.
+- **Plantilla:** "Que grafica representa correctamente los datos?"
+- **Distractores tipicos:** No respetar proporciones; confundir categorias.
+
+### P37. Probabilidad condicional
+- **Que evalua:** **Pensamiento Aleatorio**. Probabilidad condicional a partir de tabla.
+- **Plantilla:** "Dado que una persona practica deporte, cual es la probabilidad de que...?"
+- **Distractores tipicos:** No aplicar formula de probabilidad condicional; calcular probabilidad simple.
+
+### P38. Tabla de frecuencias
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Construccion/lectura de tablas de frecuencia.
+- **Plantilla:** "Cual tabla resume correctamente los datos?"
+- **Distractores tipicos:** Error en conteo; no sumar correctamente.
+
+### P39. Correlacion
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Identificacion de correlacion en datos.
+- **Plantilla:** "Existe correlacion entre las variables?"
+- **Distractores tipicos:** Confundir correlacion con causalidad; no identificar tendencia.
+
+## P40. Calculadora mal configurada (evaluacion de procedimiento)
+- **Estimulo:** Calculadora multiplica sumando, elevando al cuadrado y sumando 1: a*b = (a+b)^2 + 1.
+- **Que evalua:** **Pensamiento Variacional y Sistemas de Procesos**. Ejecucion de algoritmo no estandar.
+- **Plantilla:** "Que resultado obtiene al pedir el producto de -1 y 5?"
+- **Distractores tipicos:** Error en suma (-1+5=4; 4^2=16; 16+1=17; pero resultado correcto es 17); no seguir los 3 pasos.
+
+## P41. Geometria - Trayectorias en parque de diversiones (comparacion de longitudes)
+- **Estimulo:** Tres trayectorias de P a Q: 1-recta, 2-triangulo equilatero, 3-semicirculo (PQ=diametro).
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Comparacion de longitudes (recta < semicircunferencia < 2 lados de triangulo equilatero).
+- **Plantilla:** "De menor a mayor, cual es el orden de las longitudes?"
+- **Distractores tipicos:** No calcular longitud del semicirculo (πd/2); no calcular dos lados del triangulo equilatero (2d); ordenar incorrectamente.
+
+## P42. Estadistica - Promedio de edades (procedimiento correcto)
+- **Estimulo:** Edades de 11 integrantes de equipo; norma: promedio > 25 anos para participar.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Identificacion de procedimiento correcto para calcular promedio.
+- **Plantilla:** "Cual procedimiento permite establecer si el equipo puede participar?"
+- **Distractores tipicos:** Confundir promedio con mediana (ordenar y buscar central); confundir con moda (contar frecuencias); multiplicar en lugar de dividir.
+
+## P43. Geometria - Area de jardin en terreno rectangular
+- **Estimulo:** Terreno 60m x 40m con jardin en forma de triangulo/figura en el centro.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Calculo de area por descomposicion.
+- **Plantilla:** "Cual es el area del jardin?"
+- **Distractores tipicos:** Calcular area total del terreno; no descomponer correctamente; error en unidades (m vs m2).
+
+## P44. Estadistica - Coeficiente de correlacion de Pearson (interpretacion)
+- **Estimulo:** Coeficiente r = 0.92 entre notas de Fisica y Calculo; afirmacion del consejero.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Interpretacion de coeficiente de correlacion.
+- **Plantilla:** "Por que es verdadera la afirmacion del consejero?"
+- **Distractores tipicos:** Confundir correlacion con formula predictiva; no identificar que 0.92 indica correlacion positiva fuerte; pensar que es una constante proporcionalidad.
+
+## P45. Combinatoria - Equipos y uniformes de videojuego
+- **Estimulo:** 10 equipos, 3 uniformes cada uno; primer jugador tiene 30 opciones.
+- **Que evalua:** **Pensamiento Variacional y Combinatorio**. Principio multiplicativo.
+- **Plantilla:** "Es correcta la afirmacion de Esteban?"
+- **Distractores tipicos:** Sumar 10+3 en lugar de multiplicar 10x3; no entender que son decisiones secuenciales.
+
+## P46. Promedio - Produccion de leche de vacas (validacion)
+- **Estimulo:** Tabla produccion diaria de leche (Lunes 80, Martes 65, Miercoles 75, Jueves 65, Viernes 70); total 350. Afirmacion: promedio = 70 litros/dia.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Calculo y validacion de promedio.
+- **Plantilla:** "Es verdadera la afirmacion?"
+- **Distractores tipicos:** No dividir 350/5=70; confundir valor de un dia con promedio; no verificar que total = 70 x 5.
+
+## P47. Logica/Condiciones - Impuesto distributivo (evaluacion de condiciones)
+- **Estimulo:** Impuesto = 5% ingresos + 1% patrimonio; solo si patrimonio > $350.000.000 O 40% ingresos > $350.000.000. Tabla con 3 ciudadanos.
+- **Que evalua:** **Pensamiento Logico Cuantitativo**. Evaluacion de condiciones compuestas (OR).
+- **Plantilla:** "A quien(es) se le debe cobrar el impuesto?"
+- **Distractores tipicos:** No aplicar correctamente la condicion OR; error en calculo de 40% de ingresos; no comparar con umbrales.
+
+## P48. Geometria - Ordenamiento de manteles por numero de lados
+- **Estimulo:** Tres manteles geometricos con diferentes numeros de lados.
+- **Que evalua:** **Pensamiento Espacial y Geometrico**. Identificacion de poligonos por numero de lados y ordenamiento.
+- **Plantilla:** "Cual es el orden de menor a mayor numero de lados?"
+- **Distractores tipicos:** No identificar correctamente el numero de lados; confundir orden.
+
+## P49. Combinatoria - Informacion necesaria para formar grupos
+- **Estimulo:** Profesor quiere organizar grupo de estudiantes; pregunta que informacion se necesita.
+- **Que evalua:** **Pensamiento Variacional y Combinatorio**. Identificacion de datos necesarios para calcular combinaciones.
+- **Plantilla:** "Que informacion se necesita para calcular el numero total de posibles grupos?"
+- **Distractores tipicos:** No identificar que se necesita total de estudiantes y tamano del grupo; pensar que solo se necesita una variable.
+
+## P50. Estadistica - Diagrama de caja (quartiles y grafica)
+- **Estimulo:** Tabla de estaturas ordenadas de 11 estudiantes; Q1 = 162 cm; identificar diagrama de caja correcto.
+- **Que evalua:** **Pensamiento Metrico y Estadistico**. Construccion/identificacion de diagramas de caja (boxplot).
+- **Plantilla:** "Cual diagrama de cajas corresponde a la informacion?"
+- **Distractores tipicos:** No calcular correctamente minimo, Q1, mediana, Q3, maximo; confundir escalas; no ordenar datos.
+
+---
+
+
