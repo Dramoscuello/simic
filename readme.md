@@ -227,7 +227,39 @@ echo "VITE_WS_URL=ws://localhost:8000" >> .env.local
 
 ## Paso 6 — Iniciar la plataforma
 
+<<<<<<< HEAD
 Necesitas **dos terminales** (o usa tmux / screen).
+=======
+<<<<<<< HEAD
+Necesitas **dos terminales** (o usa tmux / screen).
+=======
+<<<<<<< HEAD
+Necesitas **dos terminales** (o usa tmux / screen).
+=======
+<<<<<<< HEAD
+Necesitas **dos terminales** (o usa tmux / screen).
+=======
+<<<<<<< HEAD
+Necesitas **dos terminales** (o usa tmux / screen).
+=======
+<<<<<<< HEAD
+Necesitas **dos terminales** (o usa tmux / screen).
+=======
+<<<<<<< HEAD
+Necesitas **dos terminales** (o usa tmux / screen).
+=======
+<<<<<<< HEAD
+Necesitas **dos terminales** (o usa tmux / screen).
+=======
+Necesitás **dos terminales** (o usa tmux / screen).
+>>>>>>> public/main
+>>>>>>> public/main
+>>>>>>> public/main
+>>>>>>> public/main
+>>>>>>> public/main
+>>>>>>> public/main
+>>>>>>> public/main
+>>>>>>> public/main
 
 ### Terminal 1 — Backend
 
@@ -359,4 +391,36 @@ Eres libre de usar, modificar y distribuir este software con fines educativos e 
 
 ---
 
+<<<<<<< HEAD
 **Hecho con el ❤️ por un educador.**
+=======
+<<<<<<< HEAD
+**Hecho con el ❤️ por un educador.**
+=======
+<<<<<<< HEAD
+**Hecho con el ❤️ por un educador.**
+=======
+<<<<<<< HEAD
+**Hecho con el ❤️ por un educador.**
+=======
+<<<<<<< HEAD
+**Hecho con el ❤️ por un educador.**
+=======
+<<<<<<< HEAD
+**Hecho con el ❤️ por un educador.**
+=======
+<<<<<<< HEAD
+**Hecho con el ❤️ por un educador.**
+=======
+<<<<<<< HEAD
+**Hecho con el ❤️ por un educador.**
+=======
+**Hecho con el ❤️ por un educador, para democratizar el acceso a simulacros de calidad en Colombia.**
+>>>>>>> public/main
+>>>>>>> public/main
+>>>>>>> public/main
+>>>>>>> public/main
+>>>>>>> public/main
+>>>>>>> public/main
+>>>>>>> public/main
+>>>>>>> public/main
