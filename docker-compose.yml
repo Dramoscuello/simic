@@ -43,9 +43,12 @@ services:
     env_file:
       - .env
     environment:
+<<<<<<< HEAD
       - USER_POSTGRES=${USER_POSTGRES:-simic}
       - PASS_POSTGRES=${PASS_POSTGRES:-cambia_esta_password}
       - DB_POSTGRES=${DB_POSTGRES:-simic_db}
+=======
+>>>>>>> public/main
       - HOST_POSTGRES=postgres
       - PORT_POSTGRES=5432
       - REDIS_URL=redis://redis:6379/0
