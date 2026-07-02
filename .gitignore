@@ -1,0 +1,175 @@
+# =============================================================================
+# SIMIC — .gitignore para rama 'libre' (solo lo esencial)
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# 1. Seguridad / Variables de entorno y secretos
+# ---------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+secrets/
+
+# ---------------------------------------------------------------------------
+# 2. Sistema operativo
+# ---------------------------------------------------------------------------
+.DS_Store
+**/.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+
+# ---------------------------------------------------------------------------
+# 3. Editores / IDEs
+# ---------------------------------------------------------------------------
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.tsbuildinfo
+.eslintcache
+
+# ---------------------------------------------------------------------------
+# 4. Python: caché, entornos virtuales y artefactos de test
+# ---------------------------------------------------------------------------
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+**/.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Entornos virtuales
+backend/.venv/
+.venv/
+venv/
+ENV/
+env/
+
+# ---------------------------------------------------------------------------
+# 5. Node / Frontend: dependencias y builds
+# ---------------------------------------------------------------------------
+node_modules/
+frontend/vue-project/node_modules/
+frontend/vue-project/dist/
+frontend/vue-project/dist-ssr/
+frontend/vue-project/coverage/
+frontend/vue-project/__screenshots__/
+frontend/vue-project/cypress/videos/
+frontend/vue-project/cypress/screenshots/
+
+# Build outputs globales
+dist/
+dist-ssr/
+coverage/
+*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+backend/reaper.log
+backend/logs/
+
+# ---------------------------------------------------------------------------
+# 6. Datos generados localmente / en servidor
+# ---------------------------------------------------------------------------
+# ChromaDB se regenera con scripts/etl_unified_rag.py y similares
+backend/data/chroma_db/
+**/.chroma/
+
+# Dumps y backups de BD
+backend/dumps/
+*.dump
+*.sql
+*.backup
+
+# ---------------------------------------------------------------------------
+# 7. Documentos oficiales de referencia (disponibles públicamente, muy pesados)
+# ---------------------------------------------------------------------------
+# Se anclan a raíz para no afectar backend/static/<area>/ ni componentes Vue.
+/ciencias_naturales/
+/ingles/
+/lectura_critica/
+/sociales_y_ciudadanas/
+
+# ---------------------------------------------------------------------------
+# 8. Artefactos de diseño / maquetas / flujos externos (no son runtime)
+# ---------------------------------------------------------------------------
+identidad_visual/
+artefacto_simulacro.html
+n8n_*.json
+skills-lock.json
+.Rhistory
+
+# ---------------------------------------------------------------------------
+# 9. Repositorios anidados / dependencias externas de sistema
+# ---------------------------------------------------------------------------
+pgvector/
+
+# ---------------------------------------------------------------------------
+# 10. Carpetas de experimentos / aprendizaje (no son la app)
+# ---------------------------------------------------------------------------
+LearningIA/
+
+# ---------------------------------------------------------------------------
+# 11. Scripts de una sola vez en raíz: extracción, auditoría y análisis
+#     (el resultado útil ya vive en backend/static/)
+# ---------------------------------------------------------------------------
+/analyze_*.py
+/audit_*.py
+/extract_*.py
+/generate_official_mock.py
+/inspect_client.py
+/list_notebooks.py
+/read_notebook.py
+/run_audit.py
+/estandares_text.txt
+
+# ---------------------------------------------------------------------------
+# 12. Skills locales de agentes (generados por el entorno de desarrollo)
+# ---------------------------------------------------------------------------
+.agent/skills/
+.agent/
+.agents/
+
+# ---------------------------------------------------------------------------
+# 13. Archivos comprimidos / temporales
+# ---------------------------------------------------------------------------
+*.tgz
+*.tar.gz
+*.zip
+*.rar
+*.7z
+*.tar
+*.tmp
+*.temp
+
+opencode.json
+AGENTS.md
+HOJAS_OMR.md
+upgrade.md
+readmev2.md
+readme-private.md
