@@ -1,0 +1,23 @@
+# .dockerignore para build context ./frontend/vue-project
+# Docker busca este archivo en la raiz del contexto de build
+
+node_modules/
+dist/
+dist-ssr/
+coverage/
+
+__pycache__/
+
+.env
+.env.*
+!.env.example
+
+.git/
+.gitignore
+
+.DS_Store
+
+*.md
+
+Dockerfile
+nginx.conf

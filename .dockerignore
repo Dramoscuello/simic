@@ -1,0 +1,78 @@
+# ─── Python ───
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ─── Entornos virtuales ───
+backend/.venv/
+.venv/
+venv/
+env/
+
+# ─── Node ───
+node_modules/
+frontend/vue-project/node_modules/
+frontend/vue-project/dist/
+frontend/vue-project/dist-ssr/
+npm-debug.log*
+
+# ─── Variables de entorno (seguridad) ───
+.env
+.env.*
+!.env.docker.example
+!.env.example
+
+# ─── Datos locales / regenerables ───
+backend/data/chroma_db/
+backend/logs/
+backend/dumps/
+logs/
+
+# ─── Git ───
+.git/
+.gitignore
+.gitattributes
+
+# ─── IDE / OS ───
+.idea/
+.vscode/
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# ─── Docker (archivos del propio build) ───
+Dockerfile
+**/Dockerfile
+docker-compose*.yml
+**/docker-compose*.yml
+.dockerignore
+
+# ─── CI/CD ───
+.github/
+
+# ─── Documentos de referencia (pesados) ───
+ciencias_naturales/
+ingles/
+lectura_critica/
+sociales_y_ciudadanas/
+pgvector/
+identidad_visual/
+
+# ─── Documentación del repo (no necesaria en runtime) ───
+*.md
+!opensource-readme.md
+artefacto_simulacro.html
+n8n_*.json
+
+# ─── Backups / temporales ───
+*.dump
+*.sql
+*.backup
+*.tgz
+*.tar.gz
+*.zip
