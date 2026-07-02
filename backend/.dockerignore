@@ -1,0 +1,31 @@
+# .dockerignore para build context ./backend
+# Docker busca este archivo en la raiz del contexto de build
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+.venv/
+venv/
+env/
+
+logs/
+dumps/
+*.dump
+*.sql
+*.backup
+
+data/chroma_db/
+
+.DS_Store
+
+.env
+.env.*
+
+tests/
